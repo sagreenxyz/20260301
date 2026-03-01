@@ -1,0 +1,46 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>AI for Nursing Practice and Learning</h1>
+			<p>
+				Welcome to <strong>Nurse AI Notes</strong>, a practical blog for student nurses, new graduates,
+				clinical educators, and experienced nurses who want to use artificial intelligence safely and
+				effectively.
+			</p>
+			<p>
+				Each article translates AI concepts into bedside-relevant decisions: how to evaluate clinical
+				tools, improve study workflows, protect patient privacy, and communicate clearly with
+				interprofessional teams.
+			</p>
+			<p>What you will find here:</p>
+			<ul>
+				<li>AI explainers for medication safety, triage, charting, and patient education.</li>
+				<li>Study support ideas for NCLEX prep, concept mapping, and clinical reflection.</li>
+				<li>Workflow tips for documentation quality, handoff communication, and time management.</li>
+				<li>Ethics guidance on bias, accountability, and responsible AI use in nursing care.</li>
+				<li>Implementation checklists for nurse leaders and quality improvement teams.</li>
+			</ul>
+			<p>
+				Start with the latest post in the <a href="/blog">blog archive</a>, then explore the About page
+				for this site's editorial focus and evidence standards.
+			</p>
+			<p>
+				This site is educational content and not a substitute for institutional policy, clinical
+				judgment, or patient-specific medical advice.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>

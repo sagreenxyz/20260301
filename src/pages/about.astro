@@ -1,0 +1,42 @@
+---
+import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="About Nurse AI Notes"
+	description="Why this blog exists and how content is reviewed"
+	pubDate={new Date('March 01 2026')}
+	heroImage={AboutHeroImage}
+>
+	<p>
+		Nurse AI Notes is an educational blog focused on how artificial intelligence intersects with real
+		nursing work. We write for student nurses preparing for practice and for licensed nurses who want
+		clear, practical guidance without hype.
+	</p>
+
+	<p>
+		Our goal is to help readers answer three questions before adopting any AI tool:
+	</p>
+	<ul>
+		<li>Is it clinically useful for this task?</li>
+		<li>Is it safe and compliant with policy, privacy, and documentation standards?</li>
+		<li>Is it equitable for diverse patient populations and care settings?</li>
+	</ul>
+
+	<p>
+		You can expect content on bedside workflows, nursing education, quality improvement, leadership,
+		and ethics. We emphasize examples that fit common nursing environments such as med-surg, ICU,
+		community health, and outpatient care.
+	</p>
+
+	<p>
+		When possible, posts include references to nursing competencies, evidence-based practice principles,
+		and implementation realities such as staffing constraints, alert fatigue, and change management.
+	</p>
+
+	<p>
+		Nothing on this site is individualized medical advice. Always follow your local policy, scope of
+		practice, and preceptor or manager guidance before applying recommendations in patient care.
+	</p>
+</Layout>
