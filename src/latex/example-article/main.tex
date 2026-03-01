@@ -4,79 +4,99 @@
 \usepackage{times}
 \usepackage{setspace}
 \usepackage{natbib}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{lettrine}
 
-\doublespacing
+% Header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 
-\title{Example Article Title: A Demonstration of APA 7 Format}
-\author{Author Name}
-\date{\today}
+% Single spacing for the whole doc
+\singlespacing
 
-\doublespacing
-
-\title{Example Article Title: A Demonstration of APA 7 Format}
-\author{Author Name}
-\date{\today}
+% Title Page Setup
+\title{\textbf{Example Article Title: A Demonstration of APA 7 Format}}
+\author{John Smith\thanks{Department of Nursing, University Name; john@smith.com}}
+\date{}
 
 \begin{document}
 
-\maketitle
+% TITLE PAGE (single column, centered)
+\begin{center}
+\vspace*{0.5in}
+{\Large\textbf{Example Article Title: A Demonstration of APA 7 Format}}
 
-\begin{abstract}
-This is the abstract of your article. The abstract should be a brief summary of the entire paper, including the purpose of the study, methods, results, and conclusions. The abstract should be no more than 250 words and should present the key findings concisely.
+\vspace{0.3in}
+{\normalsize JOHN SMITH$^*$}
 
-\noindent \textbf{Keywords:} keyword 1, keyword 2, keyword 3
-\end{abstract}
+\vspace{0.15in}
+{\normalsize University of California}
 
-\section{Introduction}
+{\normalsize john@smith.com}
 
-This is the introduction section. Here you should provide context for your research, explain the problem you are addressing, and state your research questions or hypotheses. The introduction should lead the reader from a general topic to your specific research focus.
+\vspace{0.15in}
+{\normalsize September 10, 2021}
 
-\subsection{Literature Review}
+\vspace{0.3in}
+{\textbf{Abstract}}
+\end{center}
 
-Review the relevant literature in this subsection. You can cite sources like this \citep{smith2023example}.
+\begin{quotation}
+\noindent
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam libero facilisis sem. Nullam nec mi et neque pharetra sollicitudin. Praesent imperdiet nibh ac fringilla ultrices augue, a dignissim nibh lectus placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor. Praesent in sapien. Lorem ipsum sum dolor sit amet, consectetur adipiscing elit. Duis fringilla tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue a leo. Morbi sed elit sit amet eros accumsan. Aliquam ut pharetra sollicitudin. Praesent blandit. Standit mauris. Praesent lectus nibis. Aliquiet aliguam, lectus a, agestat a, turpis. Mauris lacinia lorem sit amet ipsum. Nunc quis urna dictum semper.
+\end{quotation}
 
-\subsection{Research Questions}
+\vspace{0.2in}
 
-State your research questions or hypotheses that guide your study.
+% Main body in two columns
+\begin{multicols}{2}
 
-\section{Methods}
+\section*{I. \quad Introduction}
 
-Describe your research methodology in this section.
+% Drop cap for first letter
+\lettrine[lines=3]{L}{orem} ipsum dolor sit amet, consectetur adipiscing elit. Etiam libero facilisis sem. Nullam nec mi et neque pharetra sollicitudin. Praesent imperdiet nibh ac fringilla ultrices augue, a dignissim nibh lectus placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor. Praesent in sapien. Lorem ipsum sum dolor sit amet, consectetur adipiscing elit. Duis fringilla tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue a leo. Morbi sed elit sit amet eros accumsan. Aliquam ut pharetra sollicitudin. Praesent blandit. Standit mauris. Praesent lectus nibis. Aliquiet aliguam, lectus a, agestat a, turpis. Mauris lacinia lorem sit amet ipsum. Nunc quis urna dictum semper.
 
-\subsection{Participants}
+\noindent Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam libero facilisis sem. Nullam nec mi et neque pharetra sollicitudin. Praesent imperdiet nibh ac fringilla ultrices augue, a dignissim nibh lectus placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor. Praesent in sapien.
 
-Describe your study participants here, including demographics and selection criteria.
+\section*{II. \quad Methods}
 
-\subsection{Procedures}
+Maecenas sed ultricies felis. Sed imperdiet rutrum arcu augue.
 
-Explain the procedures you followed in conducting your research.
+\begin{itemize}
+\item Donec dolor arcu, rutrum id molestie in, viverra sed diam
+\item Curabitur feugiat
+\item Neque sed ultrices facilisis
+\item arcu eros accumsan, at posuere mi
+\item sed a rutrum
+\item Fusce fermentum, mi sit amet euismod rutrum
+\item sem molesuie diam, lacula aliquet sapien tortor non nisi
+\end{itemize}
 
-\subsection{Data Analysis}
+\section*{III. \quad Results}
 
-Describe how you analyzed your data.
+Duis fringilla tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue a leo. Morbi sed elit sit amet eros accumsan.
 
-\section{Results}
+\section*{IV. \quad Discussion}
 
-Present your findings in this section. You can include tables and figures as needed.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam libero facilisis sem. Nullam nec mi et neque pharetra sollicitudin. Praesent imperdiet nibh ac fringilla ultrices augue, a dignissim nibh lectus placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit.
 
-\section{Discussion}
-
-Discuss what your findings mean, how they relate to existing literature, and what implications they have for nursing practice or future research.
-
-\subsection{Limitations}
-
-Acknowledge the limitations of your study.
-
-\subsection{Implications}
-
-Discuss the implications of your findings for nursing practice, education, or research.
-
-\section{Conclusion}
+\section*{V. \quad Conclusion}
 
 Summarize your key findings and their significance in this conclusion section.
 
-\bibliography{references}
-\bibliographystyle{plainnat}
+\vspace{0.2in}
+\begin{center}
+\hrule
+\end{center}
+
+\noindent$^*$ A thank you or further information
+
+\end{multicols}
 
 \end{document}
+
 
