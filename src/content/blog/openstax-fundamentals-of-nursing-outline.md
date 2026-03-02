@@ -1,0 +1,1324 @@
+---
+title: 'OpenStax Fundamentals of Nursing: Detailed Outline'
+description: 'A detailed, authentic outline of units, chapters, and subsections from OpenStax Fundamentals of Nursing with key concepts and learning objectives.'
+pubDate: 'Mar 02 2026'
+---
+
+# OpenStax Fundamentals of Nursing: Detailed Outline
+
+## Unit 1: Nursing and the Healthcare Environment
+### Chapter 1: Introduction to Nursing
+- **1.1 The Evolution of Nursing**
+  - Describe the historical roots of nursing from ancient civilizations to the modern era.
+  - Identify key figures in nursing history (e.g., Florence Nightingale, Mary Seacole, Lillian Wald) and their contributions.
+  - Explain how nursing has evolved in response to societal needs, wars, and public health crises.
+- **1.2 Defining Nursing and the Role of the Nurse**
+  - Define nursing according to the American Nurses Association (ANA).
+  - Describe the core roles of the nurse: care provider, educator, advocate, leader, researcher, and collaborator.
+  - Differentiate between scope of practice for LPN/LVN, RN, and APRN.
+- **1.3 Professional Nursing Organizations**
+  - Identify major national and international nursing organizations (e.g., ANA, NLN, ICN).
+  - Describe the mission and function of these organizations in advancing the nursing profession.
+  - Discuss the benefits of professional organization membership.
+- **1.4 Nursing Education Pathways**
+  - Compare different educational pathways to becoming a registered nurse (e.g., Diploma, ADN, BSN).
+  - Explain the significance of accreditation and the role of the NCLEX for licensure.
+  - Describe opportunities for advanced practice and continuing education.
+- **1.5 The Future of Nursing**
+  - Discuss key recommendations from the IOM/National Academy of Medicine "Future of Nursing" reports.
+  - Explore current trends impacting nursing, such as technology, an aging population, and global health.
+
+### Chapter 2: The Nursing Profession and Healthcare Delivery Systems
+- **2.1 Healthcare Delivery Systems**
+  - Describe the structure of the U.S. healthcare system.
+  - Compare different models of healthcare delivery (e.g., primary, secondary, tertiary care).
+- **2.2 The Interprofessional Team**
+  - Identify the roles and responsibilities of various members of the healthcare team.
+  - Discuss strategies for effective interprofessional communication and collaboration.
+- **2.3 Healthcare Settings and Services**
+  - Differentiate between various healthcare settings (e.g., hospitals, long-term care, ambulatory care, community health).
+  - Explain the concept of continuity of care and transitions between settings.
+- **2.4 Financing Healthcare**
+  - Explain major sources of healthcare funding (e.g., private insurance, Medicare, Medicaid).
+  - Discuss the impact of healthcare costs on access and quality.
+- **2.5 Trends in Healthcare Delivery**
+  - Identify emerging trends such as telehealth, value-based care, and patient-centered medical homes.
+
+### Chapter 3: Legal and Ethical Issues in Nursing
+- **3.1 Legal Responsibilities of the Nurse**
+  - Define the legal scope of nursing practice as determined by Nurse Practice Acts.
+  - Explain legal concepts such as standards of care, torts (negligence, malpractice), and liability.
+  - Discuss legal aspects of delegation and supervision.
+- **3.2 Ethical Principles and Decision-Making**
+  - Identify core ethical principles in nursing: autonomy, beneficence, nonmaleficence, justice, fidelity, and veracity.
+  - Apply an ethical decision-making framework to clinical dilemmas.
+- **3.3 Patient Rights and Advocacy**
+  - Describe key patient rights, including informed consent and the right to refuse treatment.
+  - Explain the nurse's role as a patient advocate.
+- **3.4 Confidentiality and HIPAA**
+  - Explain the importance of patient confidentiality.
+  - Describe the key provisions of the Health Insurance Portability and Accountability Act (HIPAA).
+- **3.5 Reporting and Documentation**
+  - Identify situations requiring mandatory reporting (e.g., abuse, communicable diseases).
+  - Discuss the legal significance of accurate and timely documentation.
+
+### Chapter 4: Evidence-Based Practice and Research
+- **4.1 Introduction to Evidence-Based Practice**
+  - Define evidence-based practice (EBP) and its three core components.
+  - Explain the importance of EBP for improving patient outcomes and safety.
+- **4.2 The Research Process**
+  - Describe the steps of the scientific research process.
+  - Differentiate between qualitative and quantitative research methodologies.
+- **4.3 Applying Evidence to Practice**
+  - Formulate a clinical question using the PICO(T) format.
+  - Describe how to search for and critically appraise evidence.
+- **4.4 Barriers to Evidence-Based Practice**
+  - Identify common barriers to the implementation of EBP in clinical settings.
+  - Discuss strategies to promote a culture of EBP.
+
+### Chapter 5: Cultural Competence and Health Disparities
+- **5.1 Culture and Health**
+  - Define culture, cultural values, and their influence on health beliefs and practices.
+- **5.2 Cultural Assessment**
+  - Describe the components of a cultural assessment.
+  - Explain how to use cultural assessment models to provide patient-centered care.
+- **5.3 Health Disparities**
+  - Define health disparities and health equity.
+  - Identify major health disparities affecting populations in the U.S.
+- **5.4 Providing Culturally Competent Care**
+  - Explain the principles of culturally competent and humble nursing care.
+  - Discuss the use of interpreters and other strategies to overcome language barriers.
+
+### Chapter 6: Communication and Collaboration
+- **6.1 Communication in Nursing**
+  - Describe the levels and components of the communication process.
+  - Differentiate between verbal and nonverbal communication.
+- **6.2 Therapeutic Communication Techniques**
+  - Identify and demonstrate therapeutic communication techniques (e.g., active listening, clarifying, summarizing).
+  - Recognize and avoid non-therapeutic communication.
+- **6.3 Interprofessional Communication**
+  - Discuss the importance of effective communication within the healthcare team.
+  - Describe standardized communication tools like SBAR (Situation, Background, Assessment, Recommendation).
+- **6.4 Documentation and Reporting**
+  - Explain the purpose and principles of accurate medical record documentation.
+  - Describe different methods of charting (e.g., narrative, SOAP, charting by exception).
+
+## Unit 2: Foundations of Nursing Practice
+### Chapter 7: The Nursing Process
+- **7.1 Overview of the Nursing Process**
+  - Describe the five steps of the nursing process (Assessment, Diagnosis, Planning, Implementation, Evaluation).
+  - Explain its characteristics as a dynamic, patient-centered, and systematic framework.
+- **7.2 Assessment**
+  - Differentiate between subjective and objective data.
+  - Identify primary and secondary sources of data.
+- **7.3 Diagnosis**
+  - Explain the process of analyzing assessment data to identify health problems.
+  - Differentiate between a nursing diagnosis, medical diagnosis, and collaborative problem.
+  - Describe how to write a nursing diagnosis statement (e.g., using PES format).
+- **7.4 Planning**
+  - Discuss the process of prioritizing nursing diagnoses.
+  - Explain how to establish patient-centered goals and expected outcomes.
+  - Select evidence-based nursing interventions.
+- **7.5 Implementation**
+  - Describe the process of carrying out the nursing care plan.
+  - Discuss direct and indirect care interventions.
+- **7.6 Evaluation**
+  - Explain how to evaluate the patient's progress toward achieving outcomes.
+  - Describe the process of modifying the plan of care based on evaluation findings.
+
+### Chapter 8: Critical Thinking and Clinical Judgment
+- **8.1 Critical Thinking in Nursing**
+  - Define critical thinking and its importance in providing safe, effective nursing care.
+  - Describe the characteristics of a critical thinker (e.g., inquisitive, systematic, analytical, open-minded).
+  - Differentiate between critical thinking, clinical reasoning, and clinical judgment.
+- **8.2 Clinical Judgment Models**
+  - Explain the concept of clinical judgment as a decision-making process based on evidence and experience.
+  - Describe prominent clinical judgment models, such as the NCSBN Clinical Judgment Measurement Model (recognize cues, analyze cues, prioritize hypotheses, generate solutions, take actions, evaluate outcomes).
+- **8.3 Problem-Solving and Decision-Making**
+  - Apply a systematic problem-solving process to common nursing challenges.
+  - Discuss how critical thinking and clinical judgment support effective decision-making in complex situations.
+
+### Chapter 9: Documentation and Informatics
+- **9.1 Principles of Documentation**
+  - Explain the purposes of the medical record (e.g., communication, legal documentation, reimbursement, quality improvement, research).
+  - Describe the characteristics of effective documentation: factual, accurate, complete, current, and organized.
+- **9.2 Electronic Health Records (EHR)**
+  - Discuss the benefits of EHRs (e.g., improved access to data, decision support) and challenges (e.g., usability, interoperability).
+  - Describe strategies for protecting patient privacy and data security when using EHRs.
+- **9.3 Legal Aspects of Documentation**
+  - Explain how documentation serves as a legal record of care.
+  - Discuss best practices for documentation to limit legal liability, including timely and accurate entries.
+- **9.4 Informatics in Nursing**
+  - Define nursing informatics and its role in improving patient care, practice, and education.
+  - Discuss the use of technology and data analytics to inform clinical practice and quality improvement.
+
+### Chapter 10: Patient Education
+- **10.1 Principles of Teaching and Learning**
+  - Describe basic learning principles (e.g., motivation, readiness, active involvement).
+  - Differentiate between the three domains of learning: cognitive (knowledge), affective (attitudes), and psychomotor (skills).
+- **10.2 Assessing Learning Needs**
+  - Identify factors to assess before beginning patient education, including health literacy, motivation, ability, and learning environment.
+  - Assess for barriers to learning, such as pain, anxiety, or cultural differences.
+- **10.3 Developing Teaching Plans**
+  - Create measurable, patient-centered learning objectives for a teaching plan.
+  - Select appropriate teaching strategies (e.g., discussion, demonstration, role-play) based on patient needs and learning styles.
+- **10.4 Evaluating Learning**
+  - Describe methods for evaluating whether learning has occurred, such as the teach-back method, return demonstration, and questioning.
+  - Discuss the importance of documenting patient education and their response.
+
+### Chapter 11: Health Assessment
+- **11.1 Introduction to Health Assessment**
+  - Differentiate between a comprehensive health assessment and a focused (problem-oriented) assessment.
+  - Describe the importance of creating a safe and private environment for the assessment.
+- **11.2 Health History**
+  - Describe the components of a comprehensive health history (e.g., biographical data, reason for seeking care, history of present illness, past medical history, family history, review of systems).
+  - Use effective interviewing techniques (e.g., open-ended questions, clarification) to collect subjective data.
+- **11.3 Physical Examination Techniques**
+  - Describe and correctly apply the four techniques of physical examination: inspection, palpation, percussion, and auscultation.
+  - Explain the correct use of assessment equipment, such as a stethoscope and penlight.
+- **11.4 Documentation of Assessment Findings**
+  - Accurately and objectively document health history and physical examination findings in the medical record.
+  - Differentiate between normal and abnormal findings.
+
+### Chapter 12: Vital Signs
+- **12.1 Temperature**
+  - **12.1.1 Physiology of Thermoregulation**
+    - Differentiate between core and surface body temperature.
+    - Explain the role of the hypothalamus in regulating body temperature.
+    - Describe mechanisms of heat production (e.g., metabolism, shivering) and heat loss (e.g., radiation, conduction, convection, evaporation).
+  - **12.1.2 Factors Affecting Body Temperature**
+    - Discuss how age, circadian rhythms, exercise, hormones, and environment influence temperature.
+  - **12.1.3 Alterations in Body Temperature**
+    - Define and differentiate fever (pyrexia), hyperthermia, heatstroke, and hypothermia.
+  - **12.1.4 Assessment of Body Temperature**
+    - Identify appropriate sites for measuring temperature (oral, rectal, axillary, tympanic, temporal artery) and contraindications for each.
+    - Describe the correct procedure for using different types of thermometers (e.g., electronic, infrared).
+- **12.2 Pulse**
+  - **12.2.1 Physiology of Pulse**
+    - Define pulse as the palpable bounding of blood flow created by the contraction of the left ventricle.
+    - Describe the characteristics of the pulse: rate, rhythm, strength (amplitude), and equality.
+  - **12.2.2 Factors Affecting Pulse Rate**
+    - Discuss how age, exercise, fever, medications, stress, and disease states influence pulse rate.
+  - **12.2.3 Assessment of Pulse**
+    - Identify common pulse sites (e.g., radial, apical, carotid, brachial, femoral, popliteal, dorsalis pedis).
+    - Describe the procedure for accurately assessing radial and apical pulses.
+    - Define and differentiate tachycardia, bradycardia, and dysrhythmia.
+- **12.3 Respirations**
+  - **12.3.1 Physiology of Respiration**
+    - Describe the mechanics of breathing (inspiration and expiration).
+    - Explain the neural and chemical regulation of respirations.
+  - **12.3.2 Assessment of Respirations**
+    - Describe the correct procedure for assessing respiratory rate, depth (e.g., deep, shallow), and rhythm (e.g., regular, irregular).
+    - Define and identify abnormal respiratory patterns (e.g., tachypnea, bradypnea, apnea, Cheyne-Stokes).
+  - **12.3.3 Factors Affecting Respirations**
+    - Discuss how exercise, anxiety, pain, smoking, and medications affect respirations.
+- **12.4 Blood Pressure**
+  - **12.4.1 Physiology of Blood Pressure**
+    - Define blood pressure, systolic pressure, diastolic pressure, and pulse pressure.
+    - Describe the factors influencing blood pressure (e.g., cardiac output, peripheral resistance, blood volume, viscosity, elasticity).
+  - **12.4.2 Factors Affecting Blood Pressure**
+    - Discuss the influence of age, stress, ethnicity, medications, and circadian rhythm on blood pressure.
+  - **12.4.3 Alterations in Blood Pressure**
+    - Define hypertension and hypotension.
+    - Describe orthostatic (postural) hypotension and how to assess for it.
+  - **12.4.4 Measurement of Blood Pressure**
+    - Describe the equipment used for measuring blood pressure (sphygmomanometer, stethoscope).
+    - Explain the procedure for accurately measuring blood pressure, including selecting the correct cuff size and positioning the patient.
+- **12.5 Oxygen Saturation**
+  - **12.5.1 Principles of Pulse Oximetry**
+    - Define oxygen saturation (SpO2) as the percentage of hemoglobin saturated with oxygen.
+    - Explain how a pulse oximeter works.
+  - **12.5.2 Assessment of Oxygen Saturation**
+    - Describe the procedure for accurately measuring SpO2 using a pulse oximeter.
+    - Identify factors that can interfere with accurate readings (e.g., nail polish, poor circulation, patient movement).
+- **12.6 Pain Assessment**
+  - **12.6.1 Pain as the Fifth Vital Sign**
+    - Explain the rationale for assessing pain along with other vital signs.
+    - Describe the multidimensional nature of pain (physiological, affective, cognitive, behavioral).
+  - **12.6.2 Pain Assessment Tools**
+    - Use appropriate pain assessment scales (e.g., Numeric Rating Scale, Wong-Baker FACES, FLACC) for different patient populations.
+  - **12.6.3 Components of a Pain Assessment**
+    - Describe a comprehensive pain assessment using a mnemonic like PQRSTU (Palliative/Provocative, Quality, Region/Radiation, Severity, Timing, Understanding).
+
+### Chapter 13: Infection Prevention and Control
+- **13.1 The Chain of Infection**
+  - **13.1.1 Infectious Agent**
+    - Define pathogen (e.g., bacteria, viruses, fungi, parasites).
+    - Discuss factors that influence a pathogen's ability to cause disease (e.g., virulence, dose).
+  - **13.1.2 Reservoir**
+    - Identify common reservoirs for microorganisms (e.g., humans, animals, insects, inanimate objects).
+  - **13.1.3 Portal of Exit**
+    - Describe various portals of exit from the reservoir (e.g., respiratory tract, GI tract, skin).
+  - **13.1.4 Mode of Transmission**
+    - Differentiate between contact (direct and indirect), droplet, airborne, vehicle, and vector-borne transmission.
+  - **13.1.5 Portal of Entry**
+    - Describe how microorganisms enter a new host.
+  - **13.1.6 Susceptible Host**
+    - Discuss factors that increase a host's susceptibility to infection (e.g., age, underlying disease, immunosuppression).
+- **13.2 Standard and Transmission-Based Precautions**
+  - **13.2.1 Standard Precautions**
+    - Explain that Standard Precautions are used for all patients, regardless of their diagnosis.
+    - Describe the key elements, including hand hygiene, use of PPE, and safe injection practices.
+  - **13.2.2 Hand Hygiene**
+    - Identify when to perform hand hygiene with alcohol-based sanitizer versus soap and water.
+    - Demonstrate the correct procedure for handwashing.
+  - **13.2.3 Personal Protective Equipment (PPE)**
+    - Describe the types of PPE (gloves, gowns, masks, eye protection) and when to use them.
+    - Demonstrate the correct sequence for donning and doffing PPE.
+  - **13.2.4 Transmission-Based Precautions**
+    - Differentiate between Contact, Droplet, and Airborne precautions, including specific pathogens for each.
+    - Describe the specific PPE and environmental controls (e.g., private room, negative-pressure airflow) required for each.
+- **13.3 Asepsis and Sterile Technique**
+  - **13.3.1 Medical Asepsis (Clean Technique)**
+    - Define medical asepsis and its goal of reducing the number and spread of microorganisms.
+    - Describe practices that promote medical asepsis in the healthcare environment.
+  - **13.3.2 Surgical Asepsis (Sterile Technique)**
+    - Define surgical asepsis and its goal of eliminating all microorganisms from an object or area.
+    - Describe the principles of maintaining a sterile field.
+    - Identify situations that require sterile technique (e.g., surgery, urinary catheter insertion).
+- **13.4 Healthcare-Associated Infections (HAIs)**
+  - **13.4.1 Types of HAIs**
+    - Define HAI and identify common types (e.g., CAUTI, CLABSI, SSI, VAP).
+  - **13.4.2 Risk Factors and Prevention**
+    - Discuss risk factors for developing HAIs.
+    - Describe evidence-based "bundles" of care to prevent common HAIs.
+  - **13.4.3 Role of the Nurse**
+    - Explain the nurse's critical role in infection surveillance, prevention, and control.
+
+### Chapter 14: Safety and Quality Improvement
+- **14.1 Principles of Patient Safety**
+  - **14.1.1 Culture of Safety**
+    - Define a culture of safety and its key attributes (e.g., trust, reporting, shared accountability).
+    - Differentiate a culture of safety from a blame culture.
+  - **14.1.2 National Patient Safety Goals**
+    - Describe the purpose of The Joint Commission's National Patient Safety Goals.
+    - Provide examples of current goals (e.g., improve staff communication, use medicines safely, prevent infection).
+  - **14.1.3 The Nurse's Role in Safety**
+    - Explain how nurses act as the last line of defense in preventing patient harm.
+    - Discuss the importance of vigilance, attention to detail, and speaking up for safety.
+- **14.2 Error Prevention and Analysis**
+  - **14.2.1 Types of Errors**
+    - Differentiate between errors of commission, errors of omission, and errors of execution.
+    - Define and provide examples of adverse events, near misses, and sentinel events.
+  - **14.2.2 Human Factors and System Failures**
+    - Discuss how human factors (e.g., fatigue, distraction) can contribute to errors.
+    - Explain James Reason's "Swiss Cheese Model" of accident causation.
+  - **14.2.3 Error Reporting**
+    - Explain the importance of a non-punitive approach to error reporting.
+    - Describe the process for reporting adverse events and near misses within a healthcare organization.
+  - **14.2.4 Root Cause Analysis (RCA)**
+    - Describe the purpose of an RCA as a systematic process to identify the underlying causes of an event.
+    - Outline the basic steps of conducting an RCA.
+- **14.3 Quality Improvement (QI)**
+  - **14.3.1 Defining Quality in Healthcare**
+    - Describe the six domains of healthcare quality as defined by the IOM (Safe, Timely, Effective, Efficient, Equitable, Patient-Centered - STEEEP).
+  - **14.3.2 QI Models and Tools**
+    - Describe the Plan-Do-Study-Act (PDSA) cycle as a model for improvement.
+    - Identify common QI tools (e.g., flowcharts, cause-and-effect diagrams).
+  - **14.3.3 The Nurse's Role in QI**
+    - Explain how nurses can identify opportunities for improvement in their daily practice.
+    - Discuss the importance of using data to drive quality improvement initiatives.
+- **14.4 Specific Safety Risks**
+  - **14.4.1 Falls**
+    - Identify risk factors for patient falls.
+    - Describe universal fall precautions and evidence-based interventions to prevent falls.
+  - **14.4.2 Medication Errors**
+    - Discuss common types of medication errors.
+    - Describe strategies to prevent medication errors (e.g., the "rights" of medication administration, bar-code scanning).
+  - **14.4.3 Pressure Injuries**
+    - Identify patients at risk for developing pressure injuries.
+    - Describe nursing interventions to prevent pressure injuries.
+
+## Unit 3: Physiological Needs and Basic Care
+### Chapter 15: Oxygenation
+- **15.1 Anatomy and Physiology of the Respiratory System**
+  - **15.1.1 Structures of the Respiratory System**
+    - Identify the organs of the upper respiratory tract (nose, pharynx, larynx) and lower respiratory tract (trachea, bronchi, lungs).
+    - Describe the function of the alveoli as the site of gas exchange.
+  - **15.1.2 Mechanics of Breathing**
+    - Define ventilation, inspiration, and expiration.
+    - Explain the role of the diaphragm and intercostal muscles in breathing.
+  - **15.1.3 Gas Exchange**
+    - Describe the process of diffusion of oxygen and carbon dioxide across the alveolar-capillary membrane.
+    - Explain the concept of ventilation-perfusion (V/Q) matching.
+  - **15.1.4 Regulation of Respiration**
+    - Describe how the respiratory center in the brainstem controls breathing.
+    - Explain the role of chemoreceptors in responding to changes in CO2, O2, and pH.
+- **15.2 Assessment of Oxygenation**
+  - **15.2.1 Health History**
+    - Elicit a focused health history related to respiratory function, including cough, shortness of breath, and chest pain.
+  - **15.2.2 Physical Examination**
+    - Describe the techniques of inspection (e.g., observing respiratory rate, rhythm, effort), palpation (e.g., assessing for tactile fremitus), percussion, and auscultation of the lungs.
+    - Identify and describe normal (vesicular, bronchovesicular, bronchial) and adventitious (crackles, rhonchi, wheezes, stridor) breath sounds.
+  - **15.2.3 Diagnostic Tests**
+    - Explain the purpose and nursing implications of pulse oximetry, arterial blood gases (ABGs), chest X-rays, and sputum cultures.
+- **15.3 Promoting Optimal Oxygenation**
+  - **15.3.1 Positioning**
+    - Explain how positioning (e.g., Fowler's, semi-Fowler's) can improve lung expansion.
+  - **15.3.2 Breathing and Coughing Techniques**
+    - Teach patients deep breathing, diaphragmatic breathing, and pursed-lip breathing exercises.
+    - Explain the importance of effective coughing to clear secretions.
+  - **15.3.3 Hydration and Humidification**
+    - Discuss how adequate hydration and humidification help to thin respiratory secretions.
+- **15.4 Oxygen Therapy**
+  - **15.4.1 Indications and Safety**
+    - Identify indications for supplemental oxygen.
+    - Describe essential safety precautions for oxygen administration.
+  - **15.4.2 Oxygen Delivery Systems**
+    - Differentiate between low-flow systems (nasal cannula, simple mask, partial and non-rebreather masks) and high-flow systems (Venturi mask, high-flow nasal cannula).
+    - Describe the appropriate use and flow rates for each device.
+- **15.5 Airway Management**
+  - **15.5.1 Suctioning**
+    - Identify indications for suctioning.
+    - Describe the procedure for oropharyngeal, nasopharyngeal, and tracheal suctioning.
+  - **15.5.2 Artificial Airways**
+    - Differentiate between oropharyngeal, nasopharyngeal, endotracheal, and tracheostomy tubes.
+    - Describe basic nursing care for a patient with a tracheostomy, including tube care and suctioning.
+
+### Chapter 16: Nutrition
+- **16.1 Foundations of Nutrition**
+  - **16.1.1 Macronutrients**
+    - Describe the functions of carbohydrates, proteins, and fats in the body.
+    - Identify food sources for each macronutrient.
+  - **16.1.2 Micronutrients**
+    - Differentiate between fat-soluble and water-soluble vitamins.
+    - Describe the functions of major minerals (e.g., calcium, potassium, sodium) and trace elements.
+  - **16.1.3 Water**
+    - Explain the importance of water as an essential nutrient.
+  - **16.1.4 Dietary Guidelines**
+    - Describe dietary guidelines for the general population, such as the Dietary Guidelines for Americans and MyPlate.
+- **16.2 Nutritional Assessment**
+  - **16.2.1 Screening**
+    - Explain the purpose of nutritional screening to identify patients at risk.
+    - Use a standardized screening tool (e.g., Malnutrition Screening Tool - MST).
+  - **16.2.2 Health History**
+    - Obtain a diet history, including food preferences, cultural considerations, and changes in appetite or intake.
+  - **16.2.3 Physical Assessment**
+    - Perform a physical examination for signs of malnutrition (e.g., muscle wasting, edema, poor skin turgor).
+  - **16.2.4 Anthropometric Measurements**
+    - Measure height, weight, and calculate Body Mass Index (BMI).
+  - **16.2.5 Laboratory Data**
+    - Interpret common laboratory tests used to assess nutritional status (e.g., albumin, prealbumin, hemoglobin).
+- **16.3 Alterations in Nutrition**
+  - **16.3.1 Malnutrition**
+    - Differentiate between undernutrition and overnutrition (obesity).
+    - Discuss risk factors and consequences of malnutrition.
+  - **16.3.2 Dysphagia**
+    - Define dysphagia and identify signs and symptoms.
+    - Describe safety measures for feeding a patient with dysphagia.
+- **16.4 Nursing Interventions for Nutrition**
+  - **16.4.1 Promoting Appetite and Intake**
+    - Implement strategies to improve food intake in hospitalized patients.
+  - **16.4.2 Therapeutic Diets**
+    - Describe the purpose and components of common therapeutic diets (e.g., clear liquid, soft, low sodium, cardiac, diabetic).
+  - **16.4.3 Enteral Nutrition (EN)**
+    - Define EN and identify indications for its use.
+    - Describe types of feeding tubes (e.g., nasogastric, gastrostomy) and methods of administration (bolus, continuous).
+    - Explain nursing responsibilities, including verifying tube placement, administering feedings, and preventing complications.
+  - **16.4.4 Parenteral Nutrition (PN)**
+    - Define PN and identify indications for its use.
+    - Differentiate between peripheral parenteral nutrition (PPN) and total parenteral nutrition (TPN).
+    - Describe nursing responsibilities for managing PN, including monitoring for metabolic and infectious complications.
+
+### Chapter 17: Elimination
+- **17.1 Urinary Elimination**
+  - **17.1.1 Anatomy and Physiology of the Urinary System**
+    - Review the structures of the urinary system (kidneys, ureters, bladder, urethra).
+    - Describe the process of urine formation and micturition.
+  - **17.1.2 Factors Influencing Urination**
+    - Discuss how age, fluid intake, medications, and psychosocial factors affect urinary elimination.
+  - **17.1.3 Assessment of Urinary Function**
+    - Conduct a health history and physical assessment related to urinary elimination.
+    - Describe characteristics of normal urine (color, clarity, odor, amount).
+    - Explain the purpose of common diagnostic tests (e.g., urinalysis, bladder scan).
+  - **17.1.4 Alterations in Urinary Elimination**
+    - Define and differentiate types of urinary incontinence (e.g., stress, urge, overflow, functional).
+    - Describe other common problems, such as urinary retention and urinary tract infections (UTIs).
+  - **17.1.5 Nursing Interventions for Urinary Elimination**
+    - Implement interventions to promote normal urination (e.g., privacy, positioning, bladder training).
+    - Describe the procedure for inserting and managing an indwelling urinary catheter.
+    - Explain the principles of catheter-associated urinary tract infection (CAUTI) prevention.
+- **17.2 Bowel Elimination**
+  - **17.2.1 Anatomy and Physiology of the Gastrointestinal System**
+    - Review the structures of the large intestine.
+    - Describe the process of peristalsis, defecation, and the valsalva maneuver.
+  - **17.2.2 Factors Influencing Bowel Elimination**
+    - Discuss how age, diet, fluid intake, physical activity, and medications affect bowel movements.
+  - **17.2.3 Assessment of Bowel Function**
+    - Conduct a health history and physical assessment of the abdomen.
+    - Describe characteristics of normal stool (color, consistency, frequency).
+    - Explain the purpose of common diagnostic tests (e.g., stool culture, fecal occult blood test).
+  - **17.2.4 Alterations in Bowel Elimination**
+    - Define and describe constipation, impaction, diarrhea, and bowel incontinence.
+  - **17.2.5 Nursing Interventions for Bowel Elimination**
+    - Implement interventions to promote regular bowel movements (e.g., diet, exercise, positioning).
+    - Describe the procedure for administering an enema.
+    - Explain the basic nursing care for a patient with a bowel diversion (ostomy).
+
+### Chapter 18: Fluid, Electrolyte, and Acid-Base Balance
+- **18.1 Principles of Fluid and Electrolyte Balance**
+  - **18.1.1 Body Fluid Compartments**
+    - Differentiate between intracellular fluid (ICF) and extracellular fluid (ECF), including interstitial and intravascular fluid.
+  - **18.1.2 Movement of Body Fluids**
+    - Describe the processes of osmosis, diffusion, filtration, and active transport.
+  - **18.1.3 Fluid Regulation**
+    - Explain the roles of the kidneys, hormones (e.g., ADH, aldosterone), and thirst in maintaining fluid balance.
+  - **18.1.4 Major Electrolytes**
+    - Identify the normal functions and serum ranges for major electrolytes (Sodium, Potassium, Calcium, Magnesium, Chloride, Phosphate).
+- **18.2 Fluid Imbalances**
+  - **18.2.1 Fluid Volume Deficit (Hypovolemia)**
+    - Identify causes, signs and symptoms, and nursing interventions for hypovolemia.
+  - **18.2.2 Fluid Volume Excess (Hypervolemia)**
+    - Identify causes, signs and symptoms, and nursing interventions for hypervolemia.
+  - **18.2.3 Assessment of Fluid Status**
+    - Assess for fluid imbalance by monitoring daily weights, intake and output, vital signs, and physical examination findings (e.g., skin turgor, edema, mucous membranes).
+- **18.3 Electrolyte Imbalances**
+  - **18.3.1 Sodium Imbalances (Hyponatremia/Hypernatremia)**
+    - Describe the causes, clinical manifestations, and management of sodium imbalances.
+  - **18.3.2 Potassium Imbalances (Hypokalemia/Hyperkalemia)**
+    - Describe the causes, clinical manifestations, and management of potassium imbalances, including cardiac implications.
+  - **18.3.3 Calcium Imbalances (Hypocalcemia/Hypercalcemia)**
+    - Describe the causes, clinical manifestations, and management of calcium imbalances.
+  - **18.3.4 Magnesium Imbalances (Hypomagnesemia/Hypermagnesemia)**
+    - Describe the causes, clinical manifestations, and management of magnesium imbalances.
+- **18.4 Acid-Base Balance**
+  - **18.4.1 pH Regulation**
+    - Define pH and the normal range for arterial blood.
+    - Describe the three major regulatory systems: chemical buffers, respiratory system, and renal system.
+  - **18.4.2 Acid-Base Imbalances**
+    - Differentiate between the four primary acid-base imbalances: respiratory acidosis, respiratory alkalosis, metabolic acidosis, and metabolic alkalosis.
+  - **18.4.3 Arterial Blood Gas (ABG) Interpretation**
+    - Interpret basic ABG results to identify acid-base imbalances.
+- **18.5 Intravenous (IV) Therapy**
+  - **18.5.1 Types of IV Fluids**
+    - Differentiate between isotonic, hypotonic, and hypertonic IV solutions and their uses.
+  - **18.5.2 IV Therapy Management**
+    - Describe nursing responsibilities for initiating and maintaining IV therapy, including monitoring for complications (e.g., infiltration, phlebitis).
+
+### Chapter 19: Mobility and Immobility
+- **19.1 Principles of Body Mechanics and Mobility**
+  - **19.1.1 Body Mechanics**
+    - Define body alignment, balance, and gravity.
+    - Describe principles of proper body mechanics to ensure safety for both the nurse and the patient.
+  - **19.1.2 Exercise and Activity**
+    - Differentiate between isotonic, isometric, and resistive exercise.
+    - Discuss the benefits of exercise for all body systems.
+- **19.2 Assessment of Mobility**
+  - **19.2.1 Health History**
+    - Elicit a health history related to mobility, including activity level, endurance, and any physical limitations.
+  - **19.2.2 Physical Assessment**
+    - Assess body alignment, gait, joint range of motion (active and passive), and muscle strength.
+- **19.3 The Effects and Complications of Immobility**
+  - **19.3.1 Systemic Effects**
+    - Describe the multisystem effects of immobility, including metabolic, respiratory, cardiovascular, musculoskeletal, integumentary, urinary, and psychosocial changes.
+  - **19.3.2 Specific Complications**
+    - Discuss the pathophysiology and prevention of common complications such as pressure injuries, deep vein thrombosis (DVT), and contractures.
+- **19.4 Nursing Interventions to Promote Mobility and Prevent Complications**
+  - **19.4.1 Positioning and Turning**
+    - Demonstrate proper techniques for positioning patients in bed (e.g., Fowler's, lateral, Sims' positions).
+    - Explain the importance of a regular turning schedule.
+  - **19.4.2 Range-of-Motion (ROM) Exercises**
+    - Differentiate between active and passive ROM exercises.
+    - Demonstrate correct technique for performing passive ROM exercises.
+  - **19.4.3 Safe Patient Handling and Transfers**
+    - Use safe patient handling algorithms and equipment (e.g., gait belts, lifts) to prevent injury.
+    - Demonstrate techniques for transferring patients between a bed and a chair or wheelchair.
+  - **19.4.4 Ambulation**
+    - Assist patients with ambulation, including the use of assistive devices (e.g., walkers, canes, crutches).
+
+### Chapter 20: Comfort, Rest, and Sleep
+- **20.1 The Concept of Comfort**
+  - **20.1.1 Defining Comfort**
+    - Define comfort as a state of physical ease and freedom from pain or constraint.
+    - Discuss the subjective and holistic nature of comfort, including physical, psychospiritual, sociocultural, and environmental aspects.
+  - **20.1.2 Common Sources of Discomfort**
+    - Identify common causes of discomfort in patients, such as pain, nausea, anxiety, and environmental noise.
+- **20.2 Physiology of Sleep**
+  - **20.2.1 Circadian Rhythms**
+    - Describe the 24-hour sleep-wake cycle and factors that affect it.
+  - **20.2.2 Stages of Sleep**
+    - Differentiate between non-rapid eye movement (NREM) sleep (Stages 1-3) and rapid eye movement (REM) sleep.
+    - Describe the characteristics of a normal sleep cycle.
+  - **20.2.3 Functions of Sleep**
+    - Discuss the physiological and psychological importance of sleep for restoration and healing.
+- **20.3 Factors Affecting Rest and Sleep**
+  - **20.3.1 Lifespan Considerations**
+    - Describe normal sleep patterns for different age groups (infants, children, adults, older adults).
+  - **20.3.2 Other Factors**
+    - Discuss how illness, environment, lifestyle (e.g., diet, exercise, stress), and medications can affect sleep.
+- **20.4 Sleep Disorders**
+  - **20.4.1 Common Sleep Disorders**
+    - Define and describe common sleep disorders, including insomnia, sleep apnea, narcolepsy, and parasomnias (e.g., sleepwalking).
+  - **20.4.2 Assessment of Sleep**
+    - Conduct a sleep history to assess a patient's sleep patterns and identify potential problems.
+    - Explain the use of a sleep diary.
+- **20.5 Nursing Interventions to Promote Rest and Sleep**
+  - **20.5.1 Environmental Controls**
+    - Create a restful environment by managing noise, light, temperature, and ventilation.
+  - **20.5.2 Promoting Bedtime Routines**
+    - Encourage patients to follow their usual bedtime rituals.
+  - **20.5.3 Promoting Comfort and Relaxation**
+    - Implement measures to reduce physical discomfort and anxiety.
+    - Teach relaxation techniques such as deep breathing or progressive muscle relaxation.
+  - **20.5.4 Sleep Hygiene Education**
+    - Educate patients on principles of good sleep hygiene (e.g., maintaining a regular schedule, avoiding caffeine before bed).
+
+### Chapter 21: Pain Management
+- **21.1 The Nature of Pain**
+  - **21.1.1 Defining Pain**
+    - Define pain as "whatever the person experiencing it says it is, existing whenever the person says it does" (McCaffery).
+    - Discuss the subjective and multidimensional nature of pain.
+  - **21.1.2 Physiology of Pain (Nociception)**
+    - Describe the four physiological processes of pain: transduction, transmission, perception, and modulation.
+  - **21.1.3 Types of Pain**
+    - Differentiate between acute pain and chronic pain based on duration, purpose, and characteristics.
+    - Differentiate between nociceptive pain (somatic and visceral) and neuropathic pain based on their underlying cause.
+- **21.2 Pain Assessment**
+  - **21.2.1 Comprehensive Pain Assessment**
+    - Explain the importance of a systematic and ongoing pain assessment.
+    - Use a mnemonic like PQRSTU to guide a comprehensive assessment.
+  - **21.2.2 Pain Assessment Scales**
+    - Select and use appropriate pain intensity scales for different patient populations (e.g., Numeric Rating Scale, Wong-Baker FACES Scale, FLACC scale for non-verbal patients).
+  - **21.2.3 Assessing for Bias**
+    - Discuss how personal values and beliefs can create bias in pain assessment and management.
+    - Recognize and address misconceptions about pain (e.g., regarding addiction).
+- **21.3 Pharmacologic Pain Management**
+  - **21.3.1 The WHO Analgesic Ladder**
+    - Describe the three-step approach to pharmacologic pain management.
+  - **21.3.2 Non-opioid Analgesics**
+    - Discuss the use of non-steroidal anti-inflammatory drugs (NSAIDs) and acetaminophen.
+  - **21.3.3 Opioid Analgesics**
+    - Discuss the use of opioid analgesics for moderate to severe pain.
+    - Describe major side effects of opioids (e.g., sedation, respiratory depression, constipation) and their management.
+    - Explain the principles of safe opioid administration, including the use of patient-controlled analgesia (PCA).
+  - **21.3.4 Adjuvant Analgesics**
+    - Define adjuvant analgesics and provide examples of medications used to enhance pain relief (e.g., antidepressants, anticonvulsants).
+- **21.4 Nonpharmacologic Pain Management**
+  - **21.4.1 Cognitive-Behavioral Interventions**
+    - Describe techniques such as distraction, relaxation, guided imagery, and music therapy.
+  - **21.4.2 Physical Interventions**
+    - Describe the application of heat and cold therapy.
+    - Discuss other physical interventions such as massage, positioning, and transcutaneous electrical nerve stimulation (TENS).
+
+### Chapter 22: Hygiene
+- **22.1 Principles of Personal Hygiene**
+  - **22.1.1 The Importance of Hygiene**
+    - Discuss the role of personal hygiene in maintaining skin integrity, preventing infection, and promoting comfort and well-being.
+  - **22.1.2 Factors Influencing Hygiene Practices**
+    - Describe how personal preferences, culture, socioeconomic status, and physical condition can influence a patient's hygiene practices.
+  - **22.1.3 Assessment**
+    - Assess a patient's ability to perform self-care and determine the level of assistance required.
+- **22.2 Bathing and Skin Care**
+  - **22.2.1 Purpose of Bathing**
+    - Explain the purposes of bathing, including cleansing the skin, providing comfort, and allowing for skin assessment.
+  - **22.2.2 Types of Baths**
+    - Differentiate between a complete bed bath, partial bed bath, shower, and tub bath.
+    - Describe the use of pre-packaged bathing products.
+  - **22.2.3 Performing a Bed Bath**
+    - Demonstrate the procedure for providing a bed bath, ensuring patient privacy, comfort, and safety.
+  - **22.2.4 Perineal Care**
+    - Describe the procedure for providing perineal care for both male and female patients.
+- **22.3 Oral Hygiene**
+  - **22.3.1 Importance of Oral Care**
+    - Discuss the importance of oral hygiene in preventing infection and promoting nutrition and comfort.
+  - **22.3.2 Performing Oral Care**
+    - Demonstrate the procedure for providing oral care to a conscious patient.
+    - Describe special considerations for providing oral care to an unconscious or dependent patient.
+  - **22.3.3 Denture Care**
+    - Demonstrate the correct procedure for cleaning and storing dentures.
+- **22.4 Hair, Nail, and Foot Care**
+  - **22.4.1 Hair Care**
+    - Describe procedures for brushing, combing, and shampooing a patient's hair.
+  - **22.4.2 Nail Care**
+    - Describe the procedure for providing routine fingernail care.
+  - **22.4.3 Foot Care**
+    - Explain the importance of foot care, especially for patients with diabetes or peripheral vascular disease.
+    - Describe the correct procedure for providing routine foot care.
+- **22.5 Eye and Ear Care**
+  - **22.5.1 Eye Care**
+    - Describe the procedure for cleaning a patient's eyes.
+  - **22.5.2 Ear Care**
+    - Describe the procedure for cleaning the external ear.
+    - Explain the care of hearing aids.
+
+### Chapter 23: Skin Integrity and Wound Care
+- **23.1 Skin Integrity**
+  - **23.1.1 Anatomy and Physiology of the Skin**
+    - Describe the layers of the skin (epidermis, dermis, subcutaneous tissue) and their functions.
+  - **23.1.2 Factors Affecting Skin Integrity**
+    - Discuss risk factors for skin breakdown, including immobility, poor nutrition, incontinence, and impaired sensation.
+  - **23.1.3 Skin Assessment**
+    - Perform a comprehensive assessment of the skin, noting color, temperature, moisture, turgor, and integrity.
+    - Use a standardized tool, such as the Braden Scale, to assess a patient's risk for pressure injury development.
+- **23.2 Pressure Injuries**
+  - **23.2.1 Pathophysiology**
+    - Explain how pressure intensity, pressure duration, and tissue tolerance contribute to the development of pressure injuries.
+  - **23.2.2 Staging**
+    - Describe the classification system for pressure injuries, including Stage 1, Stage 2, Stage 3, Stage 4, Unstageable, and Deep Tissue Pressure Injury (DTPI).
+  - **23.2.3 Prevention**
+    - Implement evidence-based interventions to prevent pressure injuries, such as frequent repositioning, use of pressure-redistributing surfaces, and meticulous skin care.
+- **23.3 Wound Healing**
+  - **23.3.1 Types of Wounds**
+    - Differentiate between acute and chronic wounds.
+    - Classify wounds based on their cause (e.g., surgical, traumatic) and depth.
+  - **23.3.2 The Wound Healing Process**
+    - Describe the three phases of wound healing: inflammatory, proliferative, and maturation (remodeling).
+    - Differentiate between primary, secondary, and tertiary intention healing.
+  - **23.3.3 Complications of Wound Healing**
+    - Describe potential complications, including hemorrhage, infection, dehiscence, and evisceration.
+- **23.4 Wound Management**
+  - **23.4.1 Wound Assessment**
+    - Perform a comprehensive assessment of a wound, including its location, size, type, and the characteristics of wound drainage (serous, sanguineous, serosanguineous, purulent).
+  - **23.4.2 Wound Cleansing and Irrigation**
+    - Describe the principles and procedure for cleaning and irrigating a wound.
+  - **23.4.3 Dressings**
+    - Describe the purpose of wound dressings.
+    - Identify various types of dressings (e.g., gauze, transparent film, hydrocolloid, hydrogel) and their indications.
+  - **23.4.4 Drains and Closures**
+    - Describe the purpose and management of common wound drains (e.g., Penrose, Jackson-Pratt, Hemovac).
+    - Describe common methods of wound closure (e.g., sutures, staples, adhesive strips).
+
+## Unit 4: Medication Administration and Management
+### Chapter 24: Principles of Medication Administration
+- **24.1 Legal and Ethical Foundations**
+  - **24.1.1 Medication Regulation**
+    - Describe the legal framework for medication administration, including federal and state laws (e.g., Nurse Practice Acts).
+  - **24.1.2 Ethical Responsibilities**
+    - Discuss the nurse's ethical responsibility to administer medications safely and to advocate for the patient.
+- **24.2 Medication Orders**
+  - **24.2.1 Components of a Medication Order**
+    - Identify the essential components of a complete medication order (e.g., patient's name, date/time, medication name, dosage, route, frequency).
+  - **24.2.2 Types of Medication Orders**
+    - Differentiate between routine, PRN (as needed), single (one-time), and STAT (immediately) orders.
+  - **24.2.3 Questioning Orders**
+    - Explain the nurse's responsibility to question any order that is incomplete, unclear, or seems inappropriate.
+- **24.3 The "Rights" of Medication Administration**
+  - **24.3.1 The Core Rights**
+    - Describe the traditional "five rights" (right patient, right medication, right dose, right route, right time).
+  - **24.3.2 Additional Rights**
+    - Discuss expanded rights, such as the right documentation, right reason, right response, and right to refuse.
+- **24.4 The Medication Administration Process**
+  - **24.4.1 Three Checks**
+    - Describe the process of performing three safety checks when preparing and administering medications.
+  - **24.4.2 Patient Identification**
+    - Explain the importance of using at least two patient identifiers before administration.
+  - **24.4.3 Patient Education**
+    - Discuss the nurse's role in educating the patient about their medications.
+  - **24.4.4 Documentation**
+    - Describe the correct procedure for documenting medication administration immediately after it is given.
+
+### Chapter 25: Dosage Calculation and Preparation
+- **25.1 Systems of Measurement**
+  - **25.1.1 The Metric System**
+    - Identify the basic units of the metric system used in medication calculation (gram, liter, meter).
+    - Perform conversions within the metric system (e.g., grams to milligrams, liters to milliliters).
+  - **25.1.2 Other Systems**
+    - Recognize household measurements (e.g., teaspoon, tablespoon) and their approximate metric equivalents.
+- **25.2 Dosage Calculation Methods**
+  - **25.2.1 Ratio and Proportion**
+    - Use the ratio and proportion method to solve for an unknown quantity (x) in a dosage calculation.
+  - **25.2.2 Formula Method**
+    - Use the formula (Desired / Have) x Quantity = Amount to administer.
+  - **25.2.3 Dimensional Analysis**
+    - Use the dimensional analysis method to solve dosage calculations by canceling out units.
+- **25.3 Oral Medication Calculations**
+  - **25.3.1 Tablets and Capsules**
+    - Calculate the correct number of tablets or capsules to administer.
+  - **25.3.2 Liquid Medications**
+    - Calculate the correct volume of a liquid medication to administer.
+- **25.4 Parenteral Medication Calculations**
+  - **25.4.1 Injections from Solutions**
+    - Calculate the correct volume to draw from a vial or ampule for a parenteral injection.
+  - **25.4.2 Reconstitution of Powders**
+    - Calculate the correct dosage after reconstituting a powdered medication.
+- **25.5 Intravenous (IV) Flow Rate Calculations**
+  - **25.5.1 Calculating mL/hr**
+    - Calculate the flow rate in milliliters per hour for an IV infusion.
+  - **25.5.2 Calculating Drops per Minute (gtt/min)**
+    - Calculate the drip rate in drops per minute using the drop factor of the IV tubing.
+- **25.6 Safe Medication Preparation**
+  - **25.6.1 Preparing Oral Medications**
+    - Demonstrate how to safely prepare solid and liquid oral medications.
+  - **25.6.2 Preparing Injections**
+    - Demonstrate how to safely withdraw medication from a vial and an ampule.
+    - Describe the procedure for mixing medications from two vials in one syringe.
+
+### Chapter 26: Routes of Medication Administration
+- **26.1 Oral (PO) Administration**
+  - **26.1.1 Forms of Oral Medications**
+    - Differentiate between tablets, capsules, enteric-coated tablets, and sustained-release preparations.
+  - **26.1.2 Administration Technique**
+    - Describe the procedure for administering oral medications safely.
+    - Explain contraindications for oral administration (e.g., dysphagia, NPO status).
+  - **26.1.3 Sublingual and Buccal Routes**
+    - Differentiate between sublingual (under the tongue) and buccal (against the cheek) administration.
+- **26.2 Parenteral Administration**
+  - **26.2.1 Equipment**
+    - Identify the parts of a syringe and needle.
+    - Select the appropriate syringe and needle size based on the medication, route, and patient's size.
+  - **26.2.2 Intradermal (ID) Injections**
+    - Identify common sites (e.g., inner forearm) and indications (e.g., tuberculin testing) for ID injections.
+    - Describe the technique for administering an ID injection at a 5- to 15-degree angle.
+  - **26.2.3 Subcutaneous (Subcut) Injections**
+    - Identify common sites (e.g., abdomen, upper arms) and indications (e.g., insulin, heparin) for subcutaneous injections.
+    - Describe the technique for administering a subcutaneous injection at a 45- or 90-degree angle.
+  - **26.2.4 Intramuscular (IM) Injections**
+    - Identify common sites (deltoid, ventrogluteal, vastus lateralis) for IM injections and the appropriate use of each.
+    - Describe the technique for administering an IM injection at a 90-degree angle, including the Z-track method.
+- **26.3 Topical and Transdermal Administration**
+  - **26.3.1 Topical Medications**
+    - Describe the procedure for applying lotions, creams, and ointments.
+  - **26.3.2 Transdermal Patches**
+    - Describe the procedure for applying and removing transdermal patches, including site rotation.
+- **26.4 Mucous Membrane Administration**
+  - **26.4.1 Ophthalmic (Eye) Medications**
+    - Describe the procedure for instilling eye drops and applying eye ointment.
+  - **26.4.2 Otic (Ear) Medications**
+    - Describe the procedure for instilling ear drops in an adult and a child.
+  - **26.4.3 Nasal Medications**
+    - Describe the procedure for administering nasal sprays and drops.
+  - **26.4.4 Vaginal and Rectal Medications**
+    - Describe the procedure for administering medications via the vaginal (suppositories, creams) and rectal (suppositories, enemas) routes.
+- **26.5 Inhalation Administration**
+  - **26.5.1 Metered-Dose Inhalers (MDIs)**
+    - Describe the procedure for using an MDI with and without a spacer.
+  - **26.5.2 Dry Powder Inhalers (DPIs)**
+    - Describe the procedure for using a DPI.
+  - **26.5.3 Nebulizers**
+    - Describe the procedure for administering medication via a nebulizer.
+
+### Chapter 27: Medication Safety and Error Prevention
+- **27.1 Medication Errors**
+  - **27.1.1 Defining Medication Errors**
+    - Define a medication error as any preventable event that may cause or lead to inappropriate medication use or patient harm.
+  - **27.1.2 Types of Medication Errors**
+    - Identify different types of medication errors that can occur during the processes of prescribing, transcribing, dispensing, and administering.
+  - **27.1.3 Common Causes**
+    - Discuss common causes of medication errors, such as interruptions, look-alike/sound-alike medications, and calculation mistakes.
+- **27.2 Preventing Medication Errors**
+  - **27.2.1 The "Rights" of Administration and Three Checks**
+    - Reiterate the importance of consistently using the "rights" of medication administration and performing three checks.
+  - **27.2.2 Technology and Safety**
+    - Discuss the role of technology in preventing errors, including computerized prescriber order entry (CPOE), bar-code medication administration (BCMA), and automated dispensing cabinets (ADCs).
+  - **27.2.3 High-Alert Medications**
+    - Define high-alert medications and describe safety strategies for their administration (e.g., independent double checks).
+  - **27.2.4 A Culture of Safety**
+    - Explain how a non-punitive culture of safety encourages reporting and learning from errors.
+- **27.3 Responding to and Reporting Medication Errors**
+  - **27.3.1 Immediate Response**
+    - Describe the nurse's immediate priorities after a medication error occurs, including assessing the patient's condition and notifying the provider.
+  - **27.3.2 Reporting Procedures**
+    - Explain the process for documenting the error and completing an incident report according to facility policy.
+- **27.4 Medication Reconciliation**
+  - **27.4.1 The Process of Reconciliation**
+    - Describe the three steps of medication reconciliation: verification, clarification, and reconciliation.
+  - **27.4.2 Importance in Patient Safety**
+    - Explain how medication reconciliation prevents errors during transitions in care (e.g., on admission, transfer, and discharge).
+- **27.5 Patient Education for Medication Safety**
+  - **27.5.1 Empowering the Patient**
+    - Discuss the importance of educating patients about their medications, including name, purpose, dose, and common side effects.
+  - **27.5.2 Promoting Adherence**
+    - Implement strategies to promote medication adherence, such as using pill organizers and simplifying medication regimens.
+
+## Unit 5: Perioperative and Procedural Nursing
+### Chapter 28: Perioperative Nursing
+- **28.1 Foundations of Perioperative Nursing**
+  - **28.1.1 Phases of the Perioperative Period**
+    - Define the three phases: preoperative (before surgery), intraoperative (during surgery), and postoperative (after surgery).
+  - **28.1.2 Classification of Surgical Procedures**
+    - Classify surgery based on seriousness (major, minor), urgency (elective, urgent, emergency), and purpose (diagnostic, ablative, palliative, reconstructive, procurement, constructive, cosmetic).
+- **28.2 Preoperative Phase**
+  - **28.2.1 Patient Assessment**
+    - Conduct a comprehensive preoperative assessment, including health history, physical exam, and review of diagnostic tests.
+    - Identify surgical risk factors (e.g., age, obesity, malnutrition, comorbidities).
+  - **28.2.2 Informed Consent**
+    - Explain the components of informed consent.
+    - Describe the nurse's role in witnessing the patient's signature and verifying their understanding.
+  - **28.2.3 Preoperative Teaching**
+    - Provide patient education on topics such as postoperative exercises (deep breathing, coughing, incentive spirometry), pain management, and what to expect after surgery.
+  - **28.2.4 Physical Preparation**
+    - Describe preoperative physical preparations, including maintaining NPO status, bowel preparation, and skin preparation.
+- **28.3 Intraoperative Phase**
+  - **28.3.1 The Surgical Team**
+    - Identify the roles of the members of the surgical team (e.g., surgeon, anesthesia care provider, circulating nurse, scrub nurse).
+  - **28.3.2 Anesthesia**
+    - Differentiate between general, regional, and local anesthesia.
+  - **28.3.3 Nursing Roles**
+    - Describe the responsibilities of the circulating nurse, including patient positioning, monitoring, and maintaining a safe environment.
+  - **28.3.4 Surgical Asepsis**
+    - Discuss the principles of surgical asepsis to prevent surgical site infections.
+- **28.4 Postoperative Phase**
+  - **28.4.1 Immediate Postoperative Care (PACU)**
+    - Describe the initial nursing assessment and management in the post-anesthesia care unit (PACU), focusing on airway, breathing, and circulation.
+  - **28.4.2 Care on the Clinical Unit**
+    - Describe ongoing postoperative nursing care, including assessment of vital signs, respiratory status, cardiovascular status, wound healing, and pain management.
+  - **28.4.3 Preventing Postoperative Complications**
+    - Implement interventions to prevent common postoperative complications, such as atelectasis, pneumonia, deep vein thrombosis (DVT), and surgical site infection.
+  - **28.4.4 Discharge Planning and Teaching**
+    - Provide instructions for home care, including wound care, activity restrictions, medication management, and signs of complications to report.
+
+### Chapter 29: Procedural Care and Skills
+- **29.1 Principles of Sterile Technique (Surgical Asepsis)**
+  - **29.1.1 Defining Surgical Asepsis**
+    - Differentiate between medical asepsis (clean technique) and surgical asepsis (sterile technique).
+  - **29.1.2 Principles of a Sterile Field**
+    - Describe the principles for creating and maintaining a sterile field.
+  - **29.1.3 Applying Sterile Gloves**
+    - Demonstrate the correct procedure for applying sterile gloves.
+- **29.2 Specimen Collection**
+  - **29.2.1 General Principles**
+    - Describe general guidelines for collecting, handling, and labeling laboratory specimens.
+  - **29.2.2 Urine Specimens**
+    - Differentiate between random, clean-voided (midstream), timed, and sterile urine specimen collection.
+  - **29.2.3 Stool Specimens**
+    - Describe the procedure for collecting a stool specimen for various tests, including fecal occult blood testing.
+  - **29.2.4 Sputum and Wound Specimens**
+    - Describe the procedures for collecting sputum and wound culture specimens.
+- **29.3 Intravenous (IV) Therapy Skills**
+  - **29.3.1 Initiating Peripheral IV Therapy**
+    - Select an appropriate IV site and catheter size.
+    - Demonstrate the procedure for inserting a peripheral IV catheter.
+  - **29.3.2 Maintaining IV Therapy**
+    - Describe nursing responsibilities for maintaining IV site patency, including flushing and dressing changes.
+    - Monitor for and manage local complications such as infiltration, extravasation, and phlebitis.
+  - **29.3.3 Discontinuing a Peripheral IV**
+    - Demonstrate the procedure for discontinuing a peripheral IV line.
+- **29.4 Urinary Catheterization**
+  - **29.4.1 Types of Catheters**
+    - Differentiate between intermittent (straight) catheters and indwelling (Foley) catheters.
+  - **29.4.2 Catheter Insertion**
+    - Demonstrate the sterile procedure for inserting an indwelling urinary catheter in both male and female patients.
+  - **29.4.3 Catheter Care**
+    - Describe routine care for a patient with an indwelling catheter to prevent infection.
+  - **29.4.4 Catheter Removal**
+    - Demonstrate the procedure for removing an indwelling urinary catheter.
+- **29.5 Nasogastric (NG) Tube Management**
+  - **29.5.1 NG Tube Insertion**
+    - Describe the procedure for inserting a large-bore nasogastric tube for gastric decompression.
+    - Explain methods to verify correct tube placement.
+  - **29.5.2 NG Tube Maintenance**
+    - Describe nursing care for a patient with an NG tube, including maintaining suction and providing nasal and oral care.
+
+## Unit 6: Psychosocial and Spiritual Needs
+### Chapter 30: Psychosocial Assessment and Support
+- **30.1 The Self and Self-Concept**
+  - **30.1.1 Components of Self-Concept**
+    - Define self-concept and its four components: identity, body image, role performance, and self-esteem.
+  - **30.1.2 Factors Affecting Self-Concept**
+    - Discuss how age, illness, and other life events can affect a person's self-concept.
+  - **30.1.3 Assessment of Self-Concept**
+    - Assess for verbal and non-verbal cues related to a patient's self-concept.
+- **30.2 Sexuality**
+  - **30.2.1 Defining Sexual Health**
+    - Define sexual health as a state of physical, emotional, mental, and social well-being in relation to sexuality.
+  - **30.2.2 Factors Affecting Sexuality**
+    - Discuss how illness, medications, and aging can impact sexual expression and function.
+  - **30.2.3 Nursing Role**
+    - Use a respectful and professional approach to address sexuality in the patient assessment.
+- **30.3 Stress and Coping**
+  - **30.3.1 The Nature of Stress**
+    - Define stress and differentiate between different types of stressors (e.g., developmental, situational).
+    - Describe the physiological response to stress (General Adaptation Syndrome).
+  - **30.3.2 Coping Mechanisms**
+    - Differentiate between adaptive and maladaptive coping mechanisms.
+  - **30.3.3 Assessment of Stress and Coping**
+    - Assess a patient's stress level and their usual coping strategies.
+  - **30.3.4 Nursing Interventions**
+    - Implement stress management techniques, such as relaxation, exercise, and promoting social support.
+- **30.4 Loss, Grief, and Dying**
+  - **30.4.1 Types of Loss**
+    - Differentiate between actual, perceived, maturational, and situational loss.
+  - **30.4.2 The Grieving Process**
+    - Describe common models of grief (e.g., Kübler-Ross's stages).
+    - Differentiate between normal (uncomplicated), anticipatory, disenfranchised, and complicated grief.
+  - **30.4.3 Nursing Interventions for Grief**
+    - Use therapeutic communication to facilitate the grieving process.
+    - Provide support for the family and caregivers.
+- **30.5 Psychosocial Support**
+  - **30.5.1 Therapeutic Communication**
+    - Use active listening and other therapeutic techniques to build rapport and trust.
+  - **30.5.2 Providing Support Systems**
+    - Assess a patient's existing support systems.
+    - Facilitate connections to family, friends, and community resources.
+
+### Chapter 31: Spirituality and End-of-Life Care
+- **31.1 The Concept of Spirituality**
+  - **31.1.1 Defining Spirituality**
+    - Define spirituality as an individual's search for meaning and purpose in life.
+    - Differentiate between spirituality and religion.
+  - **31.1.2 Spiritual Health and Well-Being**
+    - Describe the characteristics of spiritual well-being.
+    - Define spiritual distress as a challenge to one's belief system.
+- **31.2 Spiritual Assessment**
+  - **31.2.1 Creating a Therapeutic Environment**
+    - Establish trust and rapport before conducting a spiritual assessment.
+  - **31.2.2 Assessment Tools**
+    - Use open-ended questions and spiritual assessment tools (e.g., FICA: Faith, Importance, Community, Address) to gather information about a patient's spiritual beliefs and practices.
+- **31.3 Spiritual Care Interventions**
+  - **31.3.1 Supporting Spiritual Practices**
+    - Facilitate patient's spiritual practices, such as prayer, meditation, or reading religious texts.
+    - Accommodate religious dietary practices and rituals.
+  - **31.3.2 Presence and Listening**
+    - Use therapeutic presence and active listening to support patients experiencing spiritual distress.
+  - **31.3.3 Collaboration with Spiritual Leaders**
+    - Collaborate with hospital chaplains or the patient's own spiritual leaders when appropriate.
+- **31.4 End-of-Life Care Principles**
+  - **31.4.1 Palliative Care vs. Hospice Care**
+    - Differentiate between palliative care (can be provided at any stage of illness) and hospice care (for patients with a terminal diagnosis, usually 6 months or less).
+  - **31.4.2 Legal and Ethical Issues**
+    - Discuss advance directives, such as living wills and durable power of attorney for health care.
+    - Explain the role of do-not-resuscitate (DNR) orders.
+- **31.5 Nursing Care of the Dying Patient**
+  - **31.5.1 Symptom Management**
+    - Describe nursing interventions to manage common symptoms at the end of life, such as pain, dyspnea, and anxiety.
+  - **31.5.2 Psychosocial and Spiritual Support**
+    - Provide emotional and spiritual support to the patient and their family.
+  - **31.5.3 Care at the Time of Death**
+    - Describe the physical signs of impending death.
+    - Provide respectful postmortem care.
+
+### Chapter 32: Grief, Loss, and Palliative Care
+- **32.1 Understanding Grief and Loss**
+  - **32.1.1 Defining Loss**
+    - Define loss as the experience of parting with an object, person, belief, or relationship that one values.
+    - Differentiate between actual loss, perceived loss, maturational loss, and situational loss.
+  - **32.1.2 The Grieving Process**
+    - Define grief as the emotional response to loss.
+    - Describe common theories and models of grief (e.g., Kübler-Ross, Bowlby, Worden).
+  - **32.1.3 Types of Grief**
+    - Differentiate between normal (uncomplicated) grief, anticipatory grief, disenfranchised grief, and complicated grief.
+- **32.2 Palliative Care Principles**
+  - **32.2.1 Philosophy and Goals**
+    - Define palliative care as patient- and family-centered care that optimizes quality of life by anticipating, preventing, and treating suffering.
+    - Explain that palliative care can be provided at any stage of a serious illness, not just at the end of life.
+  - **32.2.2 The Interprofessional Team**
+    - Describe the roles of the interprofessional team in providing palliative care.
+  - **32.2.3 Symptom Management**
+    - Discuss the holistic approach to managing physical, psychological, and spiritual symptoms.
+- **32.3 Hospice Care**
+  - **32.3.1 Philosophy and Goals**
+    - Define hospice care as a form of palliative care provided for patients with a terminal diagnosis and a prognosis of six months or less.
+    - Explain that the focus of hospice is on comfort and quality of life, rather than cure.
+- **32.4 Nursing Interventions for Grief and Loss**
+  - **32.4.1 Therapeutic Communication**
+    - Use presence, active listening, and open-ended questions to facilitate communication about loss.
+  - **32.4.2 Supporting Hope**
+    - Help patients and families find hope and meaning during times of loss.
+  - **32.4.3 Facilitating Mourning**
+    - Encourage patients and families to express their feelings and engage in culturally relevant grief rituals.
+  - **32.4.4 Supporting Families and Caregivers**
+    - Provide emotional support and resources for family members and caregivers experiencing loss.
+
+### Chapter 33: Stress and Coping
+- **33.1 The Nature of Stress**
+  - **33.1.1 Defining Stress**
+    - Define stress as the body's response to any demand made upon it.
+    - Differentiate between eustress (positive stress) and distress (negative stress).
+  - **33.1.2 Types of Stressors**
+    - Differentiate between developmental stressors (occur at predictable times in life) and situational stressors (unpredictable).
+  - **33.1.3 Physiological Response to Stress**
+    - Describe the three stages of the General Adaptation Syndrome (GAS): alarm reaction, resistance stage, and exhaustion stage.
+    - Explain the "fight-or-flight" response.
+- **33.2 Assessment of Stress and Coping**
+  - **33.2.1 Subjective Assessment**
+    - Assess the patient's perception of their stress level and current stressors.
+  - **33.2.2 Objective Assessment**
+    - Assess for objective signs of stress, such as increased heart rate, blood pressure, and muscle tension.
+  - **33.2.3 Coping Mechanisms**
+    - Assess the patient's usual coping strategies.
+    - Differentiate between adaptive (constructive) and maladaptive (destructive) coping mechanisms.
+- **33.3 Nursing Interventions for Stress Management**
+  - **33.3.1 Promoting Healthy Coping**
+    - Encourage healthy lifestyle choices, including regular exercise, a balanced diet, and adequate sleep.
+  - **33.3.2 Relaxation Techniques**
+    - Teach and guide patients in relaxation techniques such as deep breathing exercises, progressive muscle relaxation, and meditation.
+  - **33.3.3 Cognitive-Behavioral Strategies**
+    - Introduce cognitive restructuring techniques to help patients reframe negative thoughts.
+  - **33.3.4 Enhancing Social Support**
+    - Encourage patients to connect with family, friends, and support groups.
+- **33.4 Self-Care for the Nurse**
+  - **33.4.1 Stress in Nursing**
+    - Identify common stressors in the nursing profession.
+    - Define burnout and compassion fatigue.
+  - **33.4.2 Strategies for Self-Care**
+    - Discuss the importance of self-care and stress management for nurses to maintain their own health and well-being.
+
+### Chapter 34: Mental Health Nursing Basics
+- **34.1 Introduction to Mental Health Nursing**
+  - **34.1.1 Defining Mental Health**
+    - Define mental health as a state of well-being in which an individual realizes their own abilities, can cope with the normal stresses of life, can work productively, and is able to make a contribution to their community.
+  - **34.1.2 The Nurse's Role**
+    - Discuss the role of the generalist nurse in promoting mental health and providing care for patients with mental health disorders in all settings.
+- **34.2 Therapeutic Relationship and Communication**
+  - **34.2.1 The Therapeutic Nurse-Patient Relationship**
+    - Describe the phases and characteristics of a therapeutic relationship.
+    - Explain the importance of professional boundaries.
+  - **34.2.2 Therapeutic Communication Techniques**
+    - Apply specific therapeutic communication techniques (e.g., using silence, offering self, active listening) when interacting with patients with mental health disorders.
+- **34.3 Mental Health Assessment**
+  - **34.3.1 The Mental Status Examination (MSE)**
+    - Describe the components of an MSE, including appearance, behavior, speech, mood, affect, thought process, thought content, perception, cognition, and insight/judgment.
+  - **34.3.2 Psychosocial Assessment**
+    - Conduct a psychosocial assessment to gather information about the patient's support systems, coping skills, and history.
+- **34.4 Common Mental Health Disorders**
+  - **34.4.1 Anxiety Disorders**
+    - Recognize the signs and symptoms of common anxiety disorders.
+  - **34.4.2 Depressive Disorders**
+    - Recognize the signs and symptoms of major depressive disorder.
+  - **34.4.3 Bipolar and Related Disorders**
+    - Recognize the signs and symptoms of bipolar disorder.
+  - **34.4.4 Schizophrenia Spectrum and Other Psychotic Disorders**
+    - Recognize the signs and symptoms of psychosis.
+- **34.5 Nursing Interventions in Mental Health**
+  - **34.5.1 Ensuring Safety**
+    - Assess for and manage the risk of suicide or violence.
+  - **34.5.2 Milieu Management**
+    - Describe how to maintain a safe and therapeutic environment (milieu).
+  - **34.5.3 Basic Counseling and Education**
+    - Use basic counseling skills to assist patients with problem-solving and stress management.
+    - Provide education about mental health disorders and their treatment.
+
+## Unit 7: Professionalism, Leadership, and Growth
+### Chapter 35: Professionalism and Leadership
+- **35.1 The Concept of Professionalism**
+  - **35.1.1 Defining Professionalism in Nursing**
+    - Describe the attributes of a professional nurse, including knowledge, competence, accountability, and ethical behavior.
+  - **35.1.2 Professional Image and Behavior**
+    - Discuss the importance of maintaining a professional appearance and demeanor.
+    - Demonstrate professional behaviors such as integrity, respect, and compassion.
+- **35.2 Leadership and Management in Nursing**
+  - **35.2.1 Differentiating Leadership and Management**
+    - Define leadership as the ability to influence others and management as the coordination of resources to achieve outcomes.
+  - **35.2.2 Leadership Styles**
+    - Compare different leadership styles, such as autocratic, democratic, and laissez-faire.
+  - **35.2.3 Qualities of an Effective Leader**
+    - Identify key qualities of effective nurse leaders, such as communication skills, critical thinking, and emotional intelligence.
+- **35.3 The Nurse as Advocate**
+  - **35.3.1 Patient Advocacy**
+    - Define patient advocacy as protecting and defending the rights and interests of patients.
+    - Describe situations in which a nurse acts as a patient advocate.
+  - **35.3.2 Advocacy for the Profession**
+    - Discuss how nurses can advocate for the nursing profession through involvement in professional organizations and policy making.
+- **35.4 The Nurse as Change Agent**
+  - **35.4.1 The Change Process**
+    - Describe basic theories of change (e.g., Lewin's Change Theory).
+  - **35.4.2 Role in Implementing Change**
+    - Explain the nurse's role in identifying the need for change and participating in its implementation to improve patient care.
+
+### Chapter 36: Time Management and Prioritization
+- **36.1 Principles of Time Management**
+  - **36.1.1 Goal Setting and Planning**
+    - Apply principles of goal setting to plan patient care for a work period.
+    - Use a worksheet or report sheet to organize tasks.
+  - **36.1.2 Time-Saving Strategies**
+    - Discuss strategies for efficient time management, such as grouping activities, anticipating needs, and documenting in a timely manner.
+  - **36.1.3 Overcoming Procrastination**
+    - Identify common reasons for procrastination and strategies to overcome it.
+- **36.2 Prioritization in Nursing Care**
+  - **36.2.1 Prioritization Frameworks**
+    - Apply frameworks to prioritize patient care, such as Maslow's Hierarchy of Needs and the ABCs (Airway, Breathing, Circulation).
+  - **36.2.2 Differentiating Urgency and Importance**
+    - Differentiate between urgent tasks (must be done now) and important tasks (must be done to achieve goals).
+    - Categorize patient needs as high priority, intermediate priority, or low priority.
+- **36.3 Delegation in Nursing**
+  - **36.3.1 Principles of Delegation**
+    - Define delegation as the process of transferring responsibility for a task to another person while retaining accountability for the outcome.
+  - **36.3.2 The Five Rights of Delegation**
+    - Describe and apply the five rights of delegation: Right Task, Right Circumstance, Right Person, Right Direction/Communication, and Right Supervision/Evaluation.
+  - **36.3.3 Tasks That Can and Cannot Be Delegated**
+    - Identify tasks that are appropriate to delegate to unlicensed assistive personnel (UAP) and those that must be performed by the RN (e.g., steps of the nursing process, patient education).
+  - **36.3.4 The Delegation Process**
+    - Describe the process of providing clear instructions and appropriate supervision when delegating tasks.
+
+### Chapter 37: Delegation and Supervision
+- **37.1 Foundations of Delegation**
+  - **37.1.1 Defining Delegation and Assignment**
+    - Differentiate between delegation (transferring responsibility while retaining accountability) and assignment (distributing work to staff members).
+  - **37.1.2 Legal and Professional Standards**
+    - Discuss the role of Nurse Practice Acts and organizational policies in guiding delegation.
+- **37.2 The Five Rights of Delegation**
+  - **37.2.1 Right Task**
+    - Identify which tasks are appropriate to delegate based on predictability of outcome and potential for harm.
+  - **37.2.2 Right Circumstance**
+    - Assess the patient's health status and the complexity of the care required before delegating.
+  - **37.2.3 Right Person**
+    - Verify the competency and scope of practice of the delegatee.
+  - **37.2.4 Right Direction and Communication**
+    - Provide clear, concise, and complete instructions for the delegated task.
+  - **37.2.5 Right Supervision and Evaluation**
+    - Monitor the performance of the task and evaluate the patient's outcome.
+    - Provide feedback to the delegatee.
+- **37.3 The Role of the RN in Delegation**
+  - **37.3.1 Accountability**
+    - Explain that the RN retains accountability for the delegated task and the patient outcome.
+  - **37.3.2 What Not to Delegate**
+    - Reiterate that the RN cannot delegate any part of the nursing process (assessment, diagnosis, planning, evaluation), clinical judgment, or patient education.
+- **37.4 Supervision and Teamwork**
+  - **37.4.1 Principles of Supervision**
+    - Describe the process of providing guidance, direction, and oversight for a delegated task.
+  - **37.4.2 Fostering Teamwork**
+    - Discuss how effective delegation and supervision contribute to a collaborative and effective healthcare team.
+  - **37.4.3 Communication and Feedback**
+    - Use respectful and constructive communication when providing feedback to team members.
+
+### Chapter 38: Quality Improvement and Patient Safety
+- **38.1 The Imperative for Quality**
+  - **38.1.1 Defining Quality in Healthcare**
+    - Review the six domains of healthcare quality (STEEEP: Safe, Timely, Effective, Efficient, Equitable, Patient-Centered).
+  - **38.1.2 The Role of Regulatory and Accrediting Agencies**
+    - Describe the role of organizations like The Joint Commission and the Centers for Medicare & Medicaid Services (CMS) in driving quality and safety.
+- **38.2 Quality Improvement (QI) Processes**
+  - **38.2.1 QI Models**
+    - Describe common QI models, such as the Plan-Do-Study-Act (PDSA) cycle.
+  - **38.2.2 Data and Measurement**
+    - Explain the importance of collecting and analyzing data to identify areas for improvement and to measure the impact of QI initiatives.
+    - Differentiate between structure, process, and outcome measures.
+  - **38.2.3 The Nurse's Role in QI**
+    - Discuss how nurses can participate in QI by identifying problems, collecting data, and implementing and evaluating changes in practice.
+- **38.3 Patient Safety Initiatives**
+  - **38.3.1 A Culture of Safety**
+    - Review the concept of a culture of safety that focuses on system improvements rather than individual blame.
+  - **38.3.2 Error Analysis**
+    - Describe the purpose of a Root Cause Analysis (RCA) in response to a sentinel event.
+  - **38.3.3 National Patient Safety Goals**
+    - Review the purpose and examples of The Joint Commission's National Patient Safety Goals.
+- **38.4 Evidence-Based Practice (EBP) and QI**
+  - **38.4.1 The Link Between EBP and QI**
+    - Explain how EBP provides the foundation for QI activities by identifying best practices to improve patient outcomes.
+  - **38.4.2 Implementing EBP**
+    - Describe the steps of EBP and how they can be integrated into the QI process.
+
+### Chapter 39: Lifelong Learning and Career Development
+- **39.1 The Importance of Lifelong Learning**
+  - **39.1.1 Professional Responsibility**
+    - Explain the professional and ethical responsibility of nurses to engage in lifelong learning to maintain competence.
+  - **39.1.2 Continuing Education**
+    - Describe the role of continuing education (CE) in staying current with nursing practice.
+    - Discuss state board of nursing requirements for CE.
+- **39.2 Professional Development**
+  - **39.2.1 Competency**
+    - Define competency and describe how it is developed and maintained throughout a nurse's career.
+  - **39.2.2 Professional Portfolio**
+    - Describe the purpose and components of a professional portfolio to document learning and career progression.
+  - **39.2.3 Mentorship and Preceptorship**
+    - Differentiate between the roles of a mentor and a preceptor in supporting professional development.
+- **39.3 Career Planning and Advancement**
+  - **39.3.1 Self-Assessment**
+    - Conduct a self-assessment of personal strengths, weaknesses, and career goals.
+  - **39.3.2 Career Opportunities**
+    - Explore various career paths and roles within nursing (e.g., clinical practice, education, research, administration).
+  - **39.3.3 Advanced Education**
+    - Discuss opportunities for career advancement through certification and graduate education (e.g., Master's, Doctoral degrees).
+- **39.4 Professional Engagement**
+  - **39.4.1 Professional Organizations**
+    - Discuss the benefits of active membership in professional nursing organizations.
+  - **39.4.2 Certification**
+    - Explain how specialty certification demonstrates expertise and a commitment to lifelong learning.
+
+### Chapter 40: Nursing in the Community
+- **40.1 Community Health Nursing**
+  - **40.1.1 Defining Community Health Nursing**
+    - Define community health nursing as nursing practice focused on promoting and preserving the health of populations.
+    - Differentiate between community-based nursing (care for individuals and families within the community) and community-oriented nursing (care of the community as a whole).
+  - **40.1.2 The "Client" in Community Health**
+    - Explain how the concept of the client expands from the individual to include families and populations.
+- **40.2 Public Health Principles**
+  - **40.2.1 Core Functions of Public Health**
+    - Describe the three core functions of public health: assessment, policy development, and assurance.
+  - **40.2.2 Levels of Prevention**
+    - Differentiate between primary prevention (preventing disease before it occurs), secondary prevention (early detection and treatment), and tertiary prevention (reducing complications of established disease).
+- **40.3 Roles and Settings for Community Nurses**
+  - **40.3.1 Public Health Nursing**
+    - Describe the role of the public health nurse in settings like health departments.
+  - **40.3.2 Home Health Nursing**
+    - Describe the role of the home health nurse in providing skilled nursing care to patients in their homes.
+  - **40.3.3 School Nursing**
+    - Describe the role of the school nurse in promoting the health and well-being of students.
+  - **40.3.4 Occupational Health Nursing**
+    - Describe the role of the occupational health nurse in promoting safety and health in the workplace.
+- **40.4 The Community as Partner**
+  - **40.4.1 Community Assessment**
+    - Describe the process of conducting a community assessment to identify health needs and resources.
+  - **40.4.2 Program Planning**
+    - Discuss the steps involved in planning, implementing, and evaluating community health programs.
+
+### Chapter 41: Disaster Preparedness and Emergency Response
+- **41.1 Principles of Disaster Management**
+  - **41.1.1 Defining Disasters**
+    - Define a disaster as an event that causes human suffering and creates needs that victims cannot alleviate without assistance.
+    - Differentiate between natural, man-made, and technological disasters.
+  - **41.1.2 The Disaster Management Cycle**
+    - Describe the four phases of disaster management: mitigation, preparedness, response, and recovery.
+- **41.2 Disaster Preparedness**
+  - **41.2.1 Personal and Professional Preparedness**
+    - Discuss the importance of nurses having a personal emergency plan.
+    - Describe the professional responsibility of nurses to be knowledgeable about their facility's disaster plan.
+  - **41.2.2 Community Preparedness**
+    - Explain the role of community agencies (e.g., public health departments, emergency management agencies) in disaster planning.
+- **41.3 Disaster Response**
+  - **41.3.1 Triage in a Mass Casualty Incident (MCI)**
+    - Explain the goal of disaster triage: to do the greatest good for the greatest number of people.
+    - Differentiate between standard triage and disaster triage.
+    - Describe a common disaster triage system (e.g., START - Simple Triage and Rapid Treatment) using color-coded tags (black, red, yellow, green).
+  - **41.3.2 Nursing Roles in a Disaster**
+    - Discuss the varied roles nurses may play in a disaster response, depending on the setting and their expertise.
+- **41.4 Specific Emergency Situations**
+  - **41.4.1 Bioterrorism**
+    - Identify potential agents used in bioterrorism and the nurse's role in surveillance and reporting.
+  - **41.4.2 Chemical and Radiological Emergencies**
+    - Describe basic principles of decontamination and nursing care for victims of chemical or radiological incidents.
+- **41.5 Psychological Aspects of Disasters**
+  - **41.5.1 Psychological First Aid**
+    - Describe the principles of providing psychological first aid to disaster victims and responders.
+  - **41.5.2 Post-Traumatic Stress**
+    - Recognize the signs of post-traumatic stress disorder (PTSD) in both victims and responders.
+
+### Chapter 42: Global Health and Nursing
+- **42.1 Introduction to Global Health**
+  - **42.1.1 Defining Global Health**
+    - Define global health as an area for study, research, and practice that places a priority on improving health and achieving equity in health for all people worldwide.
+  - **42.1.2 Key Global Health Issues**
+    - Identify major global health challenges, such as infectious diseases, non-communicable diseases, and maternal/child health issues.
+  - **42.1.3 Social Determinants of Health**
+    - Discuss how social, economic, and environmental factors contribute to health disparities on a global scale.
+- **42.2 Global Health Organizations**
+  - **42.2.1 Major Players**
+    - Describe the roles of key global health organizations, such as the World Health Organization (WHO), UNICEF, and the World Bank.
+  - **42.2.2 Sustainable Development Goals (SDGs)**
+    - Discuss the United Nations' SDGs and their relationship to global health.
+- **42.3 The Role of Nursing in Global Health**
+  - **42.3.1 International Nursing Practice**
+    - Discuss opportunities and challenges for nurses working in global health settings.
+  - **42.3.2 Advocacy and Policy**
+    - Explain how nurses can act as advocates for global health equity.
+- **42.4 Cultural Competence in a Global Context**
+  - **42.4.1 Cultural Humility**
+    - Apply the principles of cultural humility when working with diverse populations worldwide.
+  - **42.4.2 Ethical Considerations**
+    - Discuss ethical considerations for nurses participating in short-term global health experiences.
+
+### Chapter 43: Trends and Future Directions in Nursing
+- **43.1 Emerging Trends in Healthcare**
+  - **43.1.1 Changing Demographics**
+    - Discuss the impact of an aging population and increasing cultural diversity on healthcare delivery.
+  - **43.1.2 Focus on Population Health**
+    - Describe the shift from acute care to a focus on health promotion, wellness, and chronic disease management in the community.
+  - **43.1.3 Value-Based Care**
+    - Explain the transition from a fee-for-service model to value-based payment models that reward quality and efficiency.
+- **43.2 Technology and Informatics**
+  - **43.2.1 Electronic Health Records (EHRs)**
+    - Discuss the ongoing evolution of EHRs and their role in data analytics and population health management.
+  - **43.2.2 Telehealth**
+    - Explore the expanding role of telehealth in providing remote clinical services.
+  - **43.2.3 Genomics and Personalized Medicine**
+    - Discuss the growing impact of genomics on disease prevention and treatment.
+- **43.3 The Future of Nursing Practice**
+  - **43.3.1 Expanding Roles for Nurses**
+    - Discuss the increasing demand for nurses in advanced practice roles and in community and primary care settings.
+  - **43.3.2 Interprofessional Collaboration**
+    - Emphasize the importance of teamwork and collaboration across health professions to improve patient outcomes.
+- **43.4 Envisioning Your Future in Nursing**
+  - **43.4.1 Commitment to Lifelong Learning**
+    - Reiterate the importance of continuous learning and professional development to adapt to the changing healthcare landscape.
+  - **43.4.2 The Nurse as Leader**
+    - Encourage all nurses to act as leaders and change agents to shape the future of the profession and the healthcare system.
