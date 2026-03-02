@@ -9,249 +9,579 @@ pubDate: 'Mar 02 2026'
 ## Unit 1: Introduction to Pharmacology for Nurses
 ### Chapter 1: Introduction to Pharmacology
 - 1.1 Pharmacology, Interdisciplinary Teams, and Nursing Practice
+  - 1.1.1 The History of Pharmacology
+  - 1.1.2 Interdisciplinary Teams in Healthcare
+  - 1.1.3 Nursing Practice and Pharmacology
 - 1.2 Drug Sources, Forms, and Names
+  - 1.2.1 Sources of Drugs
+  - 1.2.2 Forms of Drugs
+  - 1.2.3 Names of Drugs
 - 1.3 Drug Classifications and Prototypes
+  - 1.3.1 Drug Classifications
+  - 1.3.2 Prototype Drugs
 - 1.4 Special Considerations
+  - 1.4.1 Pediatric Considerations
+  - 1.4.2 Geriatric Considerations
+  - 1.4.3 Cultural Considerations
 
 ### Chapter 2: Drug Administration
 - 2.1 Drug Administration and the Nursing Process
+  - 2.1.1 The Nursing Process
+  - 2.1.2 Drug Administration Principles
 - 2.2 Pharmacokinetics and Pharmacodynamics
+  - 2.2.1 Pharmacokinetics
+  - 2.2.2 Pharmacodynamics
 - 2.3 Drug Administration Routes, Preparation, and Administration
+  - 2.3.1 Administration Routes
+  - 2.3.2 Drug Preparation
+  - 2.3.3 Administration Techniques
 - 2.4 Dosage Calculations
+  - 2.4.1 Basic Calculations
+  - 2.4.2 Advanced Calculations
 
 ### Chapter 3: Ethics, Legal Considerations, and Safety
 - 3.1 Legal Considerations
+  - 3.1.1 Legal Frameworks
+  - 3.1.2 Nurse Practice Acts
 - 3.2 Drug Errors and Prevention
+  - 3.2.1 Types of Drug Errors
+  - 3.2.2 Prevention Strategies
 - 3.3 Documentation and Informatics
+  - 3.3.1 Documentation Principles
+  - 3.3.2 Health Informatics
 
 ## Unit 2: Homeostasis
 ### Chapter 4: Introduction to Homeostasis
 - 4.1 What Is Homeostasis?
+  - 4.1.1 Definition of Homeostasis
+  - 4.1.2 Homeostatic Mechanisms
 - 4.2 Osmolality
+  - 4.2.1 Osmolality Concepts
+  - 4.2.2 Clinical Implications
 - 4.3 Maintaining Homeostasis
+  - 4.3.1 Regulatory Systems
+  - 4.3.2 Homeostatic Imbalances
 - 4.4 Negative Feedback Loop
+  - 4.4.1 Feedback Mechanisms
+  - 4.4.2 Examples
 
 ### Chapter 5: Fluids and Electrolytes, Vitamins, Minerals, and Alternative Therapies
 - 5.1 Fluid Volume
+  - 5.1.1 Fluid Balance
+  - 5.1.2 Fluid Imbalances
 - 5.2 Electrolytes
+  - 5.2.1 Major Electrolytes
+  - 5.2.2 Electrolyte Imbalances
 - 5.3 Intravenous Fluid Therapy, Total Parenteral Nutrition, and Blood Products
+  - 5.3.1 IV Fluid Therapy
+  - 5.3.2 TPN
+  - 5.3.3 Blood Products
 - 5.4 Vitamins, Minerals, and Complementary and Alternative Therapies
+  - 5.4.1 Vitamins and Minerals
+  - 5.4.2 Alternative Therapies
 
 ## Unit 3: Immune System
 ### Chapter 6: Introduction to the Immune System and the Inflammatory Response
 - 6.1 Introduction to Immunity
+  - 6.1.1 Innate Immunity
+  - 6.1.2 Adaptive Immunity
 - 6.2 Vaccine-Preventable Diseases, Vaccines, and Immunizations
+  - 6.2.1 Vaccine-Preventable Diseases
+  - 6.2.2 Vaccine Types
+  - 6.2.3 Immunization Schedules
 - 6.3 Immunosuppressants, Biologics, Monoclonal Antibodies, and Biosimilar Drugs
+  - 6.3.1 Immunosuppressants
+  - 6.3.2 Biologics and Monoclonals
+  - 6.3.3 Biosimilar Drugs
 - 6.4 Introduction to the Inflammatory Response and Anti-inflammatory Drugs
+  - 6.4.1 Inflammatory Response
+  - 6.4.2 Anti-inflammatory Drugs
 
 ### Chapter 7: Anti-infective Drugs
 - 7.1 Introduction to Bacterial, Viral/COVID-19, and Fungal Infections
+  - 7.1.1 Bacterial Infections
+  - 7.1.2 Viral Infections
+  - 7.1.3 Fungal Infections
 - 7.2 Antibiotic, Antiviral/Anti–COVID-19, and Antifungal Drugs
+  - 7.2.1 Antibiotics
+  - 7.2.2 Antivirals
+  - 7.2.3 Antifungals
 - 7.3 Introduction to HIV, AIDS, and Antiretrovirals
+  - 7.3.1 HIV/AIDS Overview
+  - 7.3.2 Antiretroviral Therapy
 - 7.4 Introduction to Sexually Transmitted Infections and Drugs to Treat Them
+  - 7.4.1 STIs Overview
+  - 7.4.2 Treatment Drugs
 - 7.5 Introduction to Tuberculosis and Antitubercular Drugs
+  - 7.5.1 Tuberculosis
+  - 7.5.2 Antitubercular Drugs
 - 7.6 Antiparasitic and Anthelminthic Drugs
+  - 7.6.1 Antiparasitics
+  - 7.6.2 Anthelminthics
 
 ### Chapter 8: Introduction to Cancer Therapy and Cancer Drugs
 - 8.1 Introduction to Cancer and Phases of Cancer Therapy
+  - 8.1.1 Cancer Biology
+  - 8.1.2 Phases of Therapy
 - 8.2 Chemotherapeutic Drugs
+  - 8.2.1 Chemotherapy Agents
+  - 8.2.2 Mechanisms
 - 8.3 Hormonal Therapy
+  - 8.3.1 Hormonal Treatments
+  - 8.3.2 Applications
 - 8.4 Biologic Response Modifiers
+  - 8.4.1 Biologic Agents
+  - 8.4.2 Response Modification
 
 ## Unit 4: Nervous System and Drugs for Mental Well-Being
 ### Chapter 9: Introduction to the Nervous System
 - 9.1 Introduction to the Nervous System
+  - 9.1.1 Central Nervous System
+  - 9.1.2 Peripheral Nervous System
 - 9.2 Structure and Function of the Nervous System
+  - 9.2.1 Neuronal Structure
+  - 9.2.2 Nervous System Functions
 - 9.3 Characteristics of Drugs to Treat Nervous System Disorders
+  - 9.3.1 Drug Characteristics
+  - 9.3.2 Treatment Considerations
 
 ### Chapter 10: Drugs to Treat Myasthenia Gravis and Alzheimer’s Disease
 - 10.1 Introduction to Myasthenia Gravis
+  - 10.1.1 Pathophysiology
+  - 10.1.2 Symptoms
 - 10.2 Cholinergic Drugs
+  - 10.2.1 Cholinergics
+  - 10.2.2 Applications
 - 10.3 Introduction to Alzheimer’s Disease
+  - 10.3.1 Alzheimer’s Overview
+  - 10.3.2 Pathophysiology
 - 10.4 Alzheimer’s Drugs
+  - 10.4.1 Treatment Drugs
+  - 10.4.2 Mechanisms
 
 ### Chapter 11: Drugs to Treat Parkinson’s Disease and Multiple Sclerosis
 - 11.1 Introduction to Parkinson’s Disease
+  - 11.1.1 Parkinson’s Pathophysiology
+  - 11.1.2 Symptoms
 - 11.2 Anti-Parkinsonian Drugs
+  - 11.2.1 Dopaminergics
+  - 11.2.2 Other Agents
 - 11.3 Introduction to Multiple Sclerosis
+  - 11.3.1 MS Overview
+  - 11.3.2 Pathophysiology
 - 11.4 Drugs Used in the Treatment of Multiple Sclerosis
+  - 11.4.1 Disease-Modifying Drugs
+  - 11.4.2 Symptomatic Treatments
 
 ### Chapter 12: Anticonvulsant Drugs and Drugs to Treat Epilepsy, Migraine Headaches, and Intracranial Emergencies
 - 12.1 Epilepsy and Anticonvulsant Drugs
+  - 12.1.1 Epilepsy Overview
+  - 12.1.2 Anticonvulsants
 - 12.2 Migraine Headaches and Migraine Headache Drugs
+  - 12.2.1 Migraine Pathophysiology
+  - 12.2.2 Treatment Drugs
 - 12.3 Intracranial Emergencies and Intracranial Emergency Drugs
+  - 12.3.1 Intracranial Emergencies
+  - 12.3.2 Emergency Drugs
 
 ### Chapter 13: Psychopharmacologic Drugs
 - 13.1 Antidepressants
+  - 13.1.1 Types of Antidepressants
+  - 13.1.2 Mechanisms
 - 13.2 Antipsychotics
+  - 13.2.1 Typical Antipsychotics
+  - 13.2.2 Atypical Antipsychotics
 - 13.3 Mood Stabilizers
+  - 13.3.1 Lithium
+  - 13.3.2 Other Stabilizers
 - 13.4 Anxiolytics and Sedative-Hypnotics
+  - 13.4.1 Benzodiazepines
+  - 13.4.2 Other Agents
 - 13.5 CNS Stimulants and Nonstimulants
+  - 13.5.1 Stimulants
+  - 13.5.2 Nonstimulants
 
 ### Chapter 14: Pain Response Drugs
 - 14.1 Introduction to Pain
+  - 14.1.1 Pain Physiology
+  - 14.1.2 Pain Assessment
 - 14.2 Nonopioid Analgesics
+  - 14.2.1 NSAIDs
+  - 14.2.2 Acetaminophen
 - 14.3 Opioid Agonists and Antagonists
+  - 14.3.1 Opioid Agonists
+  - 14.3.2 Opioid Antagonists
 
 ### Chapter 15: Substance Use Disorder Treatment Drugs
 - 15.1 Introduction to Substance Use Disorders
+  - 15.1.1 SUD Overview
+  - 15.1.2 Epidemiology
 - 15.2 Opioid Use Disorder Drugs
+  - 15.2.1 Methadone
+  - 15.2.2 Buprenorphine
 - 15.3 Alcohol Use Disorder Drugs
+  - 15.3.1 Disulfiram
+  - 15.3.2 Naltrexone
 - 15.4 Nicotine Use Disorder Drugs
+  - 15.4.1 Nicotine Replacement
+  - 15.4.2 Varenicline
 
 ## Unit 5: Cardiovascular System
 ### Chapter 16: Introduction to the Cardiovascular System
 - 16.1 Introduction to the Heart, Circulation, and Blood Flow
+  - 16.1.1 Heart Anatomy
+  - 16.1.2 Circulation
 - 16.2 Pumping Action of the Heart
+  - 16.2.1 Cardiac Cycle
+  - 16.2.2 Heart Sounds
 - 16.3 Conduction of Electrical Impulses
+  - 16.3.1 Conduction System
+  - 16.3.2 ECG Basics
 
 ### Chapter 17: Antidysrhythmic Drugs
 - 17.1 Introduction to Dysrhythmias
+  - 17.1.1 Types of Dysrhythmias
+  - 17.1.2 Causes
 - 17.2 Class I: Sodium Channel Blockers
+  - 17.2.1 Mechanism
+  - 17.2.2 Examples
 - 17.3 Class II: Beta Adrenergic Blockers
+  - 17.3.1 Mechanism
+  - 17.3.2 Examples
 - 17.4 Class III: Potassium Channel Blockers
+  - 17.4.1 Mechanism
+  - 17.4.2 Examples
 - 17.5 Class IV: Calcium Channel Blockers
+  - 17.5.1 Mechanism
+  - 17.5.2 Examples
 - 17.6 Unclassified Antidysrhythmics
+  - 17.6.1 Adenosine
+  - 17.6.2 Digoxin
 
 ### Chapter 18: Antihypertensive and Antianginal Drugs
 - 18.1 Hypertension and Angina
+  - 18.1.1 Pathophysiology
+  - 18.1.2 Symptoms
 - 18.2 Angiotensin-Converting Enzyme (ACE) Inhibitors
+  - 18.2.1 Mechanism
+  - 18.2.2 Examples
 - 18.3 Angiotensin II Receptor Blockers (ARBs)
+  - 18.3.1 Mechanism
+  - 18.3.2 Examples
 - 18.4 Beta-Adrenergic Blockers
+  - 18.4.1 Mechanism
+  - 18.4.2 Examples
 - 18.5 Calcium Channel Blockers
+  - 18.5.1 Mechanism
+  - 18.5.2 Examples
 - 18.6 Diuretics
+  - 18.6.1 Thiazides
+  - 18.6.2 Loop Diuretics
 - 18.7 Nitrates
+  - 18.7.1 Mechanism
+  - 18.7.2 Examples
 
 ### Chapter 19: Heart Failure Drugs
 - 19.1 Heart Failure
+  - 19.1.1 Pathophysiology
+  - 19.1.2 Stages
 - 19.2 Drugs Affecting the Renin-Angiotensin-Aldosterone System
+  - 19.2.1 ACE Inhibitors
+  - 19.2.2 ARBs
 - 19.3 Beta-Adrenergic Blockers
+  - 19.3.1 Mechanism
+  - 19.3.2 Examples
 - 19.4 Sodium-Glucose Cotransporter 2 Inhibitors (SGLT2Is)
+  - 19.4.1 Mechanism
+  - 19.4.2 Examples
 - 19.5 Diuretics
+  - 19.5.1 Loop Diuretics
+  - 19.5.2 Potassium-Sparing
 - 19.6 Adjunct Medications Used in Heart Failure
+  - 19.6.1 Digoxin
+  - 19.6.2 Ivabradine
 
 ### Chapter 20: Anticoagulant, Antiplatelet, and Thrombolytic Drugs
 - 20.1 Introduction to Clotting and Coagulation
+  - 20.1.1 Coagulation Cascade
+  - 20.1.2 Clotting Disorders
 - 20.2 Anticoagulants
+  - 20.2.1 Heparins
+  - 20.2.2 Warfarin
 - 20.3 Antiplatelets
+  - 20.3.1 Aspirin
+  - 20.3.2 Clopidogrel
 - 20.4 Thrombolytics
+  - 20.4.1 tPA
+  - 20.4.2 Streptokinase
 
 ### Chapter 21: Lipid-Lowering Drugs
 - 21.1 Introduction to Lipoprotein and Apolipoproteins
+  - 21.1.1 Lipoproteins
+  - 21.1.2 Apolipoproteins
 - 21.2 Statins (HMG-CoA Reductase Inhibitors) and PCSK9 Inhibitors
+  - 21.2.1 Statins
+  - 21.2.2 PCSK9 Inhibitors
 - 21.3 Bile Acid Sequestrants, Fibrates, and Niacin
+  - 21.3.1 Bile Acid Sequestrants
+  - 21.3.2 Fibrates
+  - 21.3.3 Niacin
 - 21.4 Cholesterol Absorption Inhibitors
+  - 21.4.1 Ezetimibe
+  - 21.4.2 Mechanism
 
 ### Chapter 22: Cardiac Emergency and Shock Drugs
 - 22.1 Introduction to Cardiac Emergencies and Shock
+  - 22.1.1 Cardiac Arrest
+  - 22.1.2 Shock Types
 - 22.2 Cardiac Emergency Drugs
+  - 22.2.1 Epinephrine
+  - 22.2.2 Atropine
 - 22.3 Shock Drugs
+  - 22.3.1 Vasopressors
+  - 22.3.2 Inotropes
 
 ## Unit 6: Respiratory System
 ### Chapter 23: Introduction to the Respiratory System
 - 23.1 Introduction to the Upper Respiratory System
+  - 23.1.1 Anatomy
+  - 23.1.2 Functions
 - 23.2 Introduction to the Lower Respiratory System
+  - 23.2.1 Anatomy
+  - 23.2.2 Functions
 - 23.3 Oxygenation and Gas Exchange
+  - 23.3.1 Oxygenation Process
+  - 23.3.2 Gas Exchange
 
 ### Chapter 24: Upper Respiratory Disorder Drugs
 - 24.1 Antihistamines and Decongestants
+  - 24.1.1 Antihistamines
+  - 24.1.2 Decongestants
 - 24.2 Antitussives
+  - 24.2.1 Codeine
+  - 24.2.2 Dextromethorphan
 - 24.3 Expectorants and Mucolytics
+  - 24.3.1 Guaifenesin
+  - 24.3.2 Acetylcysteine
 
 ### Chapter 25: Lower Respiratory Disorder Drugs
 - 25.1 Adrenergics and Anticholinergics
+  - 25.1.1 Beta-Agonists
+  - 25.1.2 Anticholinergics
 - 25.2 Corticosteroids
+  - 25.2.1 Inhaled Corticosteroids
+  - 25.2.2 Systemic Corticosteroids
 - 25.3 Xanthines, Leukotriene Modifiers, and Mast Cell Stabilizers
+  - 25.3.1 Theophylline
+  - 25.3.2 Montelukast
 
 ## Unit 7: Endocrine System
 ### Chapter 26: Hypothalamus, Pituitary, and Adrenal Disorder Drugs
 - 26.1 Introduction to the Adrenal Cortex, Pituitary, and Hypothalamus
+  - 26.1.1 Anatomy
+  - 26.1.2 Functions
 - 26.2 Growth Hormones and Suppressants
+  - 26.2.1 Somatropin
+  - 26.2.2 Octreotide
 - 26.3 Antidiuretic Hormones
+  - 26.3.1 Desmopressin
+  - 26.3.2 Mechanism
 - 26.4 Glucocorticoids and Mineralocorticoids
+  - 26.4.1 Prednisone
+  - 26.4.2 Fludrocortisone
 
 ### Chapter 27: Thyroid and Parathyroid Disorder Drugs
 - 27.1 Introduction to the Thyroid and Parathyroid
+  - 27.1.1 Anatomy
+  - 27.1.2 Functions
 - 27.2 Thyroid and Antithyroid Drugs
+  - 27.2.1 Levothyroxine
+  - 27.2.2 Methimazole
 - 27.3 Calcium Preparations, Vitamin D, Bisphosphonates, Calcimimetics, and Peptide Hormones
+  - 27.3.1 Calcium Supplements
+  - 27.3.2 Vitamin D
+  - 27.3.3 Bisphosphonates
+  - 27.3.4 Cinacalcet
 
 ### Chapter 28: Diabetic Drugs
 - 28.1 Introduction to Diabetes
+  - 28.1.1 Type 1 Diabetes
+  - 28.1.2 Type 2 Diabetes
 - 28.2 Insulin and Non-Insulin Injectable Diabetes Drugs
+  - 28.2.1 Insulin Types
+  - 28.2.2 GLP-1 Agonists
 - 28.3 Oral Antidiabetic Drugs
+  - 28.3.1 Metformin
+  - 28.3.2 Sulfonylureas
 
 ## Unit 8: Digestive System
 ### Chapter 29: Introduction to the Digestive System
 - 29.1 Introduction to the Gastrointestinal System and Oral Cavity
+  - 29.1.1 GI Tract
+  - 29.1.2 Oral Cavity
 - 29.2 Introduction to the Esophagus and Stomach
+  - 29.2.1 Esophagus
+  - 29.2.2 Stomach
 - 29.3 Introduction to the Small and Large Intestines
+  - 29.3.1 Small Intestine
+  - 29.3.2 Large Intestine
 
 ### Chapter 30: Gastrointestinal Disorder Drugs
 - 30.1 Antiemetics
+  - 30.1.1 Ondansetron
+  - 30.1.2 Metoclopramide
 - 30.2 Antidiarrheals
+  - 30.2.1 Loperamide
+  - 30.2.2 Bismuth Subsalicylate
 - 30.3 Laxatives and Stool Softeners
+  - 30.3.1 Fiber Laxatives
+  - 30.3.2 Stimulant Laxatives
 
 ### Chapter 31: Hyperacidity and Antiulcer Drugs
 - 31.1 Antacids
+  - 31.1.1 Aluminum Hydroxide
+  - 31.1.2 Magnesium Hydroxide
 - 31.2 Histamine Blockers and Proton-Pump Inhibitors
+  - 31.2.1 H2 Blockers
+  - 31.2.2 PPIs
 - 31.3 Pepsin Inhibitors and Prostaglandin Analogues
+  - 31.3.1 Sucralfate
+  - 31.3.2 Misoprostol
 
 ### Chapter 32: Weight Management Drugs
 - 32.1 Introduction to Weight Management
+  - 32.1.1 Obesity Causes
+  - 32.1.2 Management Strategies
 - 32.2 Anorexiants
+  - 32.2.1 Phentermine
+  - 32.2.2 Phentermine/Topiramate
 - 32.3 Lipase Inhibitors
+  - 32.3.1 Orlistat
+  - 32.3.2 Mechanism
 - 32.4 Other Drugs, Supplements, and Herbal Remedies
+  - 32.4.1 Bupropion/Naltrexone
+  - 32.4.2 Herbal Supplements
 
 ## Unit 9: Renal and Urinary Systems
 ### Chapter 33: Introduction to the Renal and Urinary Systems
 - 33.1 Introduction to the Renal System
+  - 33.1.1 Kidney Anatomy
+  - 33.1.2 Functions
 - 33.2 Renal-Associated Fluid Volume Excess
+  - 33.2.1 Edema
+  - 33.2.2 Causes
 - 33.3 Introduction to the Urinary System
+  - 33.3.1 Bladder
+  - 33.3.2 Urethra
 
 ### Chapter 34: Diuretic Drugs
 - 34.1 Introduction to Diuretics
+  - 34.1.1 Mechanism
+  - 34.1.2 Indications
 - 34.2 Loop Diuretics
+  - 34.2.1 Furosemide
+  - 34.2.2 Bumetanide
 - 34.3 Osmotic Diuretics
+  - 34.3.1 Mannitol
+  - 34.3.2 Uses
 - 34.4 Potassium-Sparing Diuretics
+  - 34.4.1 Spironolactone
+  - 34.4.2 Amiloride
 - 34.5 Thiazide and Thiazide-Like Diuretics
+  - 34.5.1 Hydrochlorothiazide
+  - 34.5.2 Chlorthalidone
 
 ### Chapter 35: Urinary and Bladder Disorder Drugs
 - 35.1 Urinary Anti-infectives
+  - 35.1.1 Nitrofurantoin
+  - 35.1.2 Trimethoprim-Sulfamethoxazole
 - 35.2 Urinary Antispasmodics, Antimuscarinics, and Anticholinergics
+  - 35.2.1 Oxybutynin
+  - 35.2.2 Tolterodine
 - 35.3 Urinary Analgesics
+  - 35.3.1 Phenazopyridine
+  - 35.3.2 Mechanism
 - 35.4 Urinary Stimulants
+  - 35.4.1 Bethanechol
+  - 35.4.2 Uses
 - 35.5 Phosphodiesterase 5 Inhibitors
+  - 35.5.1 Sildenafil
+  - 35.5.2 Tadalafil
 
 ## Unit 10: Reproductive System
 ### Chapter 36: Reproductive Health Drugs
 - 36.1 Review of the Female Reproductive System
+  - 36.1.1 Anatomy
+  - 36.1.2 Physiology
 - 36.2 Hormonal, Contraception, and Infertility Drugs
+  - 36.2.1 Oral Contraceptives
+  - 36.2.2 Fertility Drugs
 - 36.3 Uterine Motility Drugs and Lactation Considerations
+  - 36.3.1 Oxytocin
+  - 36.3.2 Methergine
 - 36.4 Bisphosphonates, Calcium Preparations, Vitamin D, and Estrogen Receptor Modulators
+  - 36.4.1 Alendronate
+  - 36.4.2 Raloxifene
 - 36.5 Review of the Male Reproductive System
+  - 36.5.1 Anatomy
+  - 36.5.2 Physiology
 - 36.6 Androgens, Antiandrogens, and Anabolic Steroids
+  - 36.6.1 Testosterone
+  - 36.6.2 Finasteride
 - 36.7 Phosphodiesterase 5 Inhibitors
+  - 36.7.1 Sildenafil
+  - 36.7.2 Tadalafil
 - 36.8 Alpha Blockers and 5-Alpha-Reductase Inhibitors
+  - 36.8.1 Tamsulosin
+  - 36.8.2 Finasteride
 
 ### Chapter 37: Transgender and Nonbinary Drugs
 - 37.1 Overview of Transgender and Nonbinary Health
+  - 37.1.1 Definitions
+  - 37.1.2 Health Needs
 - 37.2 Feminizing Hormonal Therapy
+  - 37.2.1 Estrogen
+  - 37.2.2 Antiandrogens
 - 37.3 Masculinizing Hormonal Therapy
+  - 37.3.1 Testosterone
+  - 37.3.2 Effects
 
 ## Unit 11: Sensory and Dermatologic Systems
 ### Chapter 38: Ophthalmic Drugs
 - 38.1 Introduction to the Eyes
+  - 38.1.1 Anatomy
+  - 38.1.2 Physiology
 - 38.2 Ocular Anti-inflammatories and Anti-infectives
+  - 38.2.1 Corticosteroids
+  - 38.2.2 Antibiotics
 - 38.3 Ocular Anesthetics and Lubricants
+  - 38.3.1 Tetracaine
+  - 38.3.2 Artificial Tears
 - 38.4 Antiglaucoma Drugs
+  - 38.4.1 Beta Blockers
+  - 38.4.2 Prostaglandins
 
 ### Chapter 39: Otic Drugs
 - 39.1 Introduction to the Ears
+  - 39.1.1 Anatomy
+  - 39.1.2 Physiology
 - 39.2 Otic Anti-inflammatories and Anti-infectives
+  - 39.2.1 Corticosteroids
+  - 39.2.2 Antibiotics
 - 39.3 Otic Antihistamines, Decongestants, and Cerumenolytics
+  - 39.3.1 Antihistamines
+  - 39.3.2 Carbamide Peroxide
 
 ### Chapter 40: Dermatologic Disorder Drugs
 - 40.1 Introduction to the Skin and Its Function
+  - 40.1.1 Skin Layers
+  - 40.1.2 Functions
 - 40.2 Acne Drugs
+  - 40.2.1 Topical Retinoids
+  - 40.2.2 Antibiotics
 - 40.3 Psoriatic Drugs
+  - 40.3.1 Topical Corticosteroids
+  - 40.3.2 Biologics
 - 40.4 Other Dermatologic Condition Drugs and Topical Anti-infectives for Burns
+  - 40.4.1 Antifungals
+  - 40.4.2 Silver Sulfadiazine
