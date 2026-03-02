@@ -11,156 +11,143 @@ pubDate: 'Mar 02 2026'
     -   1.1.1 The History of Pharmacology
     -   1.1.2 Interdisciplinary Teams in Healthcare
     -   1.1.3 Nursing Practice and Pharmacology
+-   **Lecture 1.2: Drug Sources, Forms, and Names.**
     -   1.2.1 Sources of Drugs
     -   1.2.2 Forms of Drugs
     -   1.2.3 Names of Drugs
+-   **Lecture 1.3: Drug Classifications and Special Populations.**
     -   1.3.1 Drug Classifications
     -   1.3.2 Prototype Drugs
     -   1.4.1 Pediatric Considerations
     -   1.4.2 Geriatric Considerations
     -   1.4.3 Cultural Considerations
--   **Lecture 2.1: Drug Administration.**
+
+## Unit 2: Drug Administration
+-   **Lecture 2.1: Nursing Process and Drug Administration.**
     -   2.1.1 The Nursing Process
     -   2.1.2 Drug Administration Principles
+-   **Lecture 2.2: Pharmacokinetics and Pharmacodynamics.**
     -   2.2.1 Pharmacokinetics
     -   2.2.2 Pharmacodynamics
--   **Lecture 2.2: Routes, Preparation, and Calculation.**
+-   **Lecture 2.3: Routes, Preparation, and Techniques.**
     -   2.3.1 Administration Routes
     -   2.3.2 Drug Preparation
     -   2.3.3 Administration Techniques
+-   **Lecture 2.4: Drug Calculations.**
     -   2.4.1 Basic Calculations
     -   2.4.2 Advanced Calculations
--   **Lecture 3.1: Legal, Ethical, and Safety Concerns.**
+
+## Unit 3: Legal, Ethical, and Safety Concerns
+-   **Lecture 3.1: Legal and Ethical Aspects.**
     -   3.1.1 Legal Frameworks
     -   3.1.2 Nurse Practice Acts
+-   **Lecture 3.2: Drug Safety and Error Prevention.**
     -   3.2.1 Types of Drug Errors
     -   3.2.2 Prevention Strategies
+-   **Lecture 3.3: Documentation and Informatics.**
     -   3.3.1 Documentation Principles
     -   3.3.2 Health Informatics
 
-## Unit 2: Homeostasis
+## Unit 4: Homeostasis
 -   **Lecture 4.1: Principles of Homeostasis.**
     -   4.1.1 Definition of Homeostasis
     -   4.1.2 Homeostatic Mechanisms
     -   4.2.1 Osmolality Concepts
     -   4.2.2 Clinical Implications
+-   **Lecture 4.2: Regulatory Systems and Imbalances.**
     -   4.3.1 Regulatory Systems
     -   4.3.2 Homeostatic Imbalances
     -   4.4.1 Feedback Mechanisms
     -   4.4.2 Examples
--   **Lecture 5.1: Fluid, Electrolytes, and Nutrition.**
+
+## Unit 5: Fluid, Electrolytes, and Nutrition
+-   **Lecture 5.1: Fluid and Electrolyte Balance.**
     -   5.1.1 Fluid Balance
-    -   5.1.2 Fluid Imbalances
-    -   5.2.1 Major Electrolytes
-    -   5.2.2 Electrolyte Imbalances
--   **Lecture 5.2: IV Therapy and Alternative Therapies.**
-    -   5.3.1 IV Fluid Therapy
-    -   5.3.2 TPN
-    -   5.3.3 Blood Products
-    -   5.4.1 Vitamins and Minerals
-    -   5.4.2 Alternative Therapies
+    -   5.1.2 Electrolyte Balance
+-   **Lecture 5.2: Nutrition Support.**
+    -   5.2.1 Parenteral Nutrition
+    -   5.2.2 Enteral Nutrition
+-   **Lecture 5.3: IV Therapy.**
+    -   5.3.1 IV Therapy Principles
+    -   5.3.2 IV Administration
+-   **Lecture 5.4: Alternative and Complementary Therapies.**
+    -   5.4.1 Alternative Therapies
+    -   5.4.2 Complementary Medicine
 
-## Unit 3: Immune System
--   **Lecture 6.1: Immunity and Immunizations.**
-    -   6.1.1 Innate Immunity
-    -   6.1.2 Adaptive Immunity
-    -   6.2.1 Vaccine-Preventable Diseases
-    -   6.2.2 Vaccine Types
-    -   6.2.3 Immunization Schedules
--   **Lecture 6.2: Immunomodulators and Anti-inflammatories.**
-    -   6.3.1 Immunosuppressants
-    -   6.3.2 Biologics and Monoclonals
-    -   6.3.3 Biosimilar Drugs
-    -   6.4.1 Inflammatory Response
-    -   6.4.2 Anti-inflammatory Drugs
+## Unit 6: Immunity and Immunizations
+-   **Lecture 6.1: Immune System and Response.**
+    -   6.1.1 Immune System Overview
+    -   6.1.2 Immune Response
+-   **Lecture 6.2: Immunizations.**
+    -   6.2.1 Vaccines
+    -   6.2.2 Immunization Schedules
+-   **Lecture 6.3: Immunomodulators and Anti-inflammatories.**
+    -   6.3.1 Immunomodulators
+    -   6.3.2 Immunosuppressants
+    -   6.4.1 Anti-inflammatory Drugs
+    -   6.4.2 NSAIDs
+
+## Unit 7: Anti-Infectives
 -   **Lecture 7.1: Introduction to Anti-Infectives.**
-    -   7.1.1 Bacterial Infections
-    -   7.1.2 Viral Infections
-    -   7.1.3 Fungal Infections
-    -   7.2.1 Antibiotics
-    -   7.2.2 Antivirals
-    -   7.2.3 Antifungals
--   **Lecture 7.2: Specialized Anti-Infectives.**
-    -   7.3.1 HIV/AIDS Overview
-    -   7.3.2 Antiretroviral Therapy
-    -   7.4.1 STIs Overview
-    -   7.4.2 Treatment Drugs
-    -   7.5.1 Tuberculosis
-    -   7.5.2 Antitubercular Drugs
-    -   7.6.1 Antiparasitics
-    -   7.6.2 Anthelminthics
--   **Lecture 8.1: Cancer Therapy Fundamentals.**
-    -   8.1.1 Cancer Biology
-    -   8.1.2 Phases of Therapy
--   **Lecture 8.2: Cancer Drug Modalities.**
-    -   8.2.1 Chemotherapeutic Drugs
-    -   8.2.2 Mechanisms
-    -   8.3.1 Hormonal Treatments
-    -   8.3.2 Applications
-    -   8.4.1 Biologic Agents
-    -   8.4.2 Response Modification
+    -   7.1.1 Antimicrobial Resistance
+    -   7.1.2 Antibiotic Stewardship
+-   **Lecture 7.2: Beta-Lactams.**
+    -   7.2.1 Penicillins
+    -   7.2.2 Cephalosporins
+-   **Lecture 7.3: Aminoglycosides and Tetracyclines.**
+    -   7.3.1 Aminoglycosides
+    -   7.3.2 Tetracyclines
+-   **Lecture 7.4: Macrolides and Fluoroquinolones.**
+    -   7.4.1 Macrolides
+    -   7.4.2 Fluoroquinolones
+-   **Lecture 7.5: Other Anti-Infectives.**
+    -   7.5.1 Sulfonamides
+    -   7.5.2 Antifungals
+    -   7.6.1 Antivirals
+    -   7.6.2 Antitubercular Drugs
 
-## Unit 4: Nervous System and Drugs for Mental Well-Being
--   **Lecture 9.1: Introduction to the Nervous System.**
-    -   9.1.1 Central Nervous System
-    -   9.1.2 Peripheral Nervous System
-    -   9.2.1 Neuronal Structure
-    -   9.2.2 Nervous System Functions
-    -   9.3.1 Drug Characteristics
-    -   9.3.2 Treatment Considerations
--   **Lecture 10.1: Drugs for Myasthenia Gravis and Alzheimer’s.**
-    -   10.1.1 Pathophysiology
-    -   10.1.2 Symptoms
-    -   10.2.1 Cholinergics
-    -   10.2.2 Applications
-    -   10.3.1 Alzheimer’s Overview
-    -   10.3.2 Pathophysiology
-    -   10.4.1 Treatment Drugs
-    -   10.4.2 Mechanisms
--   **Lecture 11.1: Drugs for Parkinson’s and Multiple Sclerosis.**
-    -   11.1.1 Parkinson’s Pathophysiology
-    -   11.1.2 Symptoms
-    -   11.2.1 Dopaminergics
-    -   11.2.2 Other Agents
-    -   11.3.1 MS Overview
-    -   11.3.2 Pathophysiology
-    -   11.4.1 Disease-Modifying Drugs
-    -   11.4.2 Symptomatic Treatments
--   **Lecture 12.1: Anticonvulsants and Related Drugs.**
-    -   12.1.1 Epilepsy Overview
-    -   12.1.2 Anticonvulsants
-    -   12.2.1 Migraine Pathophysiology
-    -   12.2.2 Treatment Drugs
-    -   12.3.1 Intracranial Emergencies
-    -   12.3.2 Emergency Drugs
--   **Lecture 13.1: Psychopharmacology - Antidepressants & Antipsychotics.**
-    -   13.1.1 Types of Antidepressants
-    -   13.1.2 Mechanisms
-    -   13.2.1 Typical Antipsychotics
-    -   13.2.2 Atypical Antipsychotics
--   **Lecture 13.2: Psychopharmacology - Mood Stabilizers, Anxiolytics, & Stimulants.**
-    -   13.3.1 Lithium
-    -   13.3.2 Other Stabilizers
-    -   13.4.1 Benzodiazepines
-    -   13.4.2 Other Agents
-    -   13.5.1 Stimulants
-    -   13.5.2 Nonstimulants
+## Unit 8: Cancer Therapy
+-   **Lecture 8.1: Cancer Fundamentals.**
+    -   8.1.1 Cancer Pathophysiology
+    -   8.1.2 Cancer Staging
+-   **Lecture 8.2: Chemotherapy Basics.**
+    -   8.2.1 Chemotherapy Agents
+    -   8.2.2 Alkylating Agents
+-   **Lecture 8.3: Specific Chemotherapy Agents.**
+    -   8.3.1 Antimetabolites
+    -   8.3.2 Plant Alkaloids
+-   **Lecture 8.4: Advanced Cancer Therapies.**
+    -   8.4.1 Hormonal Therapies
+    -   8.4.2 Targeted Therapies
+
+## Unit 9: Nervous System
+-   **Lecture 9.1: Nervous System Overview.**
+    -   9.1.1 Nervous System Anatomy
+    -   9.1.2 Neurotransmission
+-   **Lecture 10.1: Neuromuscular Disorders.**
+    -   10.1.1 Myasthenia Gravis
+    -   10.1.2 Treatment
+-   **Lecture 11.1: Parkinson’s Disease.**
+    -   11.1.1 Parkinson’s Disease
+    -   11.1.2 Dopaminergic Drugs
+-   **Lecture 12.1: Seizures and Antiepileptics.**
+    -   12.1.1 Seizure Types
+    -   12.1.2 Antiepileptic Drugs
+-   **Lecture 13.1: Antidepressants and Antipsychotics.**
+    -   13.1.1 Antidepressants
+    -   13.1.2 Antipsychotics
+-   **Lecture 13.2: Mood Stabilizers and Anxiolytics.**
+    -   13.2.1 Mood Stabilizers
+    -   13.2.2 Anxiolytics
+-   **Lecture 13.3: Stimulants and ADHD.**
+    -   13.3.1 Stimulants
+    -   13.3.2 ADHD Medications
 -   **Lecture 14.1: Pain Management.**
-    -   14.1.1 Pain Physiology
-    -   14.1.2 Pain Assessment
-    -   14.2.1 NSAIDs
-    -   14.2.2 Acetaminophen
-    -   14.3.1 Opioid Agonists
-    -   14.3.2 Opioid Antagonists
--   **Lecture 15.1: Substance Use Disorder Treatments.**
-    -   15.1.1 SUD Overview
-    -   15.1.2 Epidemiology
-    -   15.2.1 Methadone
-    -   15.2.2 Buprenorphine
-    -   15.3.1 Disulfiram
-    -   15.3.2 Naltrexone
-    -   15.4.1 Nicotine Replacement
-    -   15.4.2 Varenicline
+    -   14.1.1 Pain Pathways
+    -   14.1.2 Analgesics
+-   **Lecture 15.1: Substance Use Disorders.**
+    -   15.1.1 Substance Use Disorders
+    -   15.1.2 Treatment Approaches
 
 ## Unit 5: Cardiovascular System
 -   **Lecture 16.1: Introduction to the Cardiovascular System.**
@@ -239,7 +226,7 @@ pubDate: 'Mar 02 2026'
     -   22.3.1 Vasopressors
     -   22.3.2 Inotropes
 
-## Unit 6: Respiratory System
+## Unit 11: Respiratory System
 -   **Lecture 23.1: Introduction to the Respiratory System.**
     -   23.1.1 Anatomy
     -   23.1.2 Functions
@@ -262,7 +249,7 @@ pubDate: 'Mar 02 2026'
     -   25.3.1 Theophylline
     -   25.3.2 Montelukast
 
-## Unit 7: Endocrine System
+## Unit 12: Endocrine System
 -   **Lecture 26.1: Hypothalamus, Pituitary, and Adrenal Drugs.**
     -   26.1.1 Anatomy
     -   26.1.2 Functions
@@ -290,7 +277,7 @@ pubDate: 'Mar 02 2026'
     -   28.3.1 Metformin
     -   28.3.2 Sulfonylureas
 
-## Unit 8: Digestive System
+## Unit 13: Digestive System
 -   **Lecture 29.1: Introduction to the Digestive System.**
     -   29.1.1 GI Tract
     -   29.1.2 Oral Cavity
